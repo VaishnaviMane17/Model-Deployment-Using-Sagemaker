@@ -1,0 +1,1341 @@
+age,sex,on_thyroxine,query_on_thyroxine,on_antithyroid_meds,sick,pregnant,thyroid_surgery,I131_treatment,query_hypothyroid,query_hyperthyroid,lithium,goitre,tumor,hypopituitary,psych,TSH,T3,TT4,T4U,FTI,TBG,referral_source,Patient_ID,label
+59,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.1,2.5,100.0,0.98,103.0,2.2,other,2387,No Condition
+47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,1.0,130.0,0.88,148.0,2.2,SVI,3303,General Health
+43,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,100.0,1.9,93.0,0.87,107.0,1.85,other,659,Replacement Therapy
+47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.4,2.0,122.0,1.1,111.0,2.2,other,7818,No Condition
+70,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.6,1.0,60.0,0.88,68.0,1.85,SVI,5100,General Health
+70,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.15,1.3,112.0,0.89,125.0,2.2,other,1330,No Condition
+49,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.7,1.6,106.0,0.98,108.0,1.85,SVHC,6336,No Condition
+22,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.6,1.1,119.0,0.88,135.0,1.85,SVI,8956,General Health
+29,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,1.4,3.9,148.0,1.44,103.0,2.2,other,1388,Hyperthyroid
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,2.3,180.0,1.04,173.0,2.2,SVHC,7265,Miscellaneous
+66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.15,0.8,90.0,0.77,117.0,2.2,SVI,2392,General Health
+16,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.1,2.2,90.0,0.98,92.0,3.35,other,4790,No Condition
+55,F,f,f,f,f,f,f,f,f,f,t,f,f,f,f,7.2,1.9,106.0,0.83,128.0,2.2,SVI,8098,Hypothyroid
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,145.0,0.2,16.0,0.94,17.0,2.2,SVI,313,Hypothyroid
+79,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.8,2.2,103.0,0.95,109.0,1.85,SVI,2682,No Condition
+35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.3,2.0,125.0,0.94,133.0,2.2,SVHC,1481,No Condition
+84,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.3,2.2,109.0,1.07,101.0,2.2,SVI,4014,No Condition
+40,F,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1.3,2.6,135.0,1.09,124.0,2.2,SVHC,4094,No Condition
+59,M,f,f,f,t,f,f,f,f,f,t,f,f,f,t,4.2,2.5,90.0,1.02,88.0,1.85,SVHC,8825,No Condition
+51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.0,1.7,70.0,0.9,78.0,2.2,SVI,8729,No Condition
+75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.18,1.0,151.0,0.7,216.0,2.2,SVI,7087,Miscellaneous
+70,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,1.0,1.8,112.0,1.06,106.0,2.2,SVI,5563,No Condition
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.055,2.4,146.0,0.92,159.0,2.2,other,7908,Miscellaneous
+17,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,1.1,52.0,0.36,145.0,3.35,other,5224,Binding Protein
+34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,30.0,3.3,89.0,1.24,71.0,2.2,other,1344,Hypothyroid
+36,M,f,f,f,f,f,f,f,f,f,t,f,f,f,f,0.71,1.7,93.0,0.88,106.0,1.85,SVHC,6191,No Condition
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.2,2.3,87.0,0.94,93.0,1.85,SVI,6105,No Condition
+25,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.2,2.5,123.0,1.1,111.0,1.85,SVHC,6181,No Condition
+80,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,6.0,1.6,99.0,0.95,104.0,2.2,SVI,2919,No Condition
+76,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,1.2,2.1,81.0,0.94,86.0,1.85,other,5181,No Condition
+75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.1,2.4,126.0,1.13,112.0,2.2,other,7907,No Condition
+38,F,f,f,f,f,f,f,f,f,f,t,f,f,f,f,1.5,2.9,89.0,1.0,89.0,2.2,other,7179,No Condition
+45,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,2.5,114.0,1.01,113.0,1.85,other,3972,No Condition
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,46.0,0.5,14.0,1.19,12.0,2.2,SVI,298,Hypothyroid
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,2.0,109.0,1.09,100.0,2.2,SVHC,2496,No Condition
+43,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.68,2.5,175.0,1.23,143.0,2.2,other,6059,No Condition
+76,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.7,1.8,99.0,0.8,124.0,1.85,other,7654,No Condition
+78,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,2.6,0.3,87.0,0.95,91.0,2.2,SVI,3957,General Health
+62,F,t,f,f,f,f,t,f,f,f,f,f,f,f,f,3.4,1.3,134.0,1.19,113.0,2.2,other,4006,No Condition
+68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.6,1.6,86.0,0.94,92.0,2.2,SVHC,6114,No Condition
+52,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.3,1.1,98.0,0.92,107.0,1.85,SVHC,6715,General Health
+71,F,f,f,f,f,f,f,f,f,t,f,f,t,f,f,0.2,4.5,125.0,0.82,152.0,2.2,other,2743,Hyperthyroid
+27,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.2,2.4,102.0,0.88,116.0,1.85,SVHC,3924,No Condition
+19,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.84,2.0,98.0,0.88,112.0,3.35,SVI,2956,No Condition
+34,F,f,f,f,f,t,f,f,f,f,f,f,f,f,f,0.04,2.9,144.0,1.58,91.0,2.2,STMW,2914,Binding Protein
+64,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,2.4,77.0,0.98,79.0,1.85,SVI,504,No Condition
+45,F,t,f,f,f,f,t,f,f,f,f,f,f,f,f,0.1,2.3,206.0,1.05,196.0,2.2,other,500,Replacement Therapy
+67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,0.8,89.0,0.93,96.0,2.2,SVI,1498,General Health
+67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,2.1,132.0,1.13,116.0,2.2,SVI,4462,No Condition
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.015,1.5,140.0,0.88,160.0,2.2,SVI,3364,Miscellaneous
+42,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.025,2.7,172.0,1.01,172.0,1.85,other,6232,Replacement Therapy
+41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,1.2,86.0,0.75,116.0,2.2,other,1290,No Condition
+42,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.05,2.0,129.0,1.02,126.0,2.2,other,1861,No Condition
+29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.68,2.0,142.0,1.05,135.0,2.2,other,5918,No Condition
+36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,1.8,82.0,0.95,86.0,2.2,other,6674,No Condition
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,1.5,73.0,0.95,77.0,2.2,SVHC,257,No Condition
+55,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.015,1.9,115.0,0.77,149.0,2.2,other,5350,No Condition
+39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.1,1.0,92.0,0.88,105.0,2.2,SVI,965,General Health
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.05,2.4,96.0,0.98,98.0,2.2,other,3638,No Condition
+36,M,t,f,f,f,f,f,f,f,f,f,f,f,f,t,1.6,2.8,131.0,1.05,125.0,1.85,SVHC,7161,No Condition
+37,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,1.7,1.8,72.0,0.69,104.0,2.2,other,8812,No Condition
+25,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,1.8,118.0,0.99,119.0,1.85,SVHC,3544,No Condition
+61,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.5,1.3,93.0,0.84,111.0,1.85,SVI,1518,No Condition
+18,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,2.3,98.0,0.85,115.0,3.35,SVHC,1784,No Condition
+75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.2,2.0,101.0,0.93,109.0,2.2,other,3182,No Condition
+84,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.2,1.0,81.0,0.73,111.0,1.85,other,7678,General Health
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.3,1.8,114.0,1.0,114.0,1.85,SVI,2030,No Condition
+41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.03,2.1,187.0,0.89,210.0,2.2,other,4403,Hyperthyroid
+30,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,8.5,2.1,91.0,1.16,79.0,2.2,other,3511,Hypothyroid
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.5,2.2,88.0,0.96,92.0,2.2,SVI,2185,No Condition
+52,F,t,f,f,f,f,f,f,f,f,f,f,f,f,t,2.4,2.8,118.0,1.01,117.0,2.2,SVHC,7165,No Condition
+81,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,39.0,0.7,99.0,0.89,111.0,2.2,other,6810,Hypothyroid
+79,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,48.0,other,7652,Miscellaneous
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.8,2.6,131.0,1.18,111.0,2.2,other,4876,No Condition
+42,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,6.6,1.9,89.0,0.95,94.0,2.2,other,951,Hypothyroid
+79,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.84,0.8,94.0,0.86,109.0,2.2,other,3793,General Health
+58,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,3.2,2.1,75.0,1.04,72.0,2.2,other,2231,No Condition
+67,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.0,1.6,80.0,0.64,125.0,1.85,other,7382,No Condition
+53,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.045,2.5,157.0,1.07,147.0,2.2,other,4673,No Condition
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.4,1.8,82.0,0.84,99.0,2.2,SVHC,7113,No Condition
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.5,1.4,89.0,0.99,89.0,2.2,other,4507,No Condition
+43,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.3,1.9,200.0,1.1,182.0,2.2,other,356,Replacement Therapy
+62,F,t,t,f,f,f,f,f,f,f,f,f,f,f,f,0.025,2.2,183.0,1.03,178.0,2.2,other,3760,Replacement Therapy
+34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.035,3.1,142.0,1.47,97.0,2.2,other,3236,Binding Protein
+25,F,f,f,f,f,t,f,f,f,f,f,f,f,f,f,1.8,1.9,180.0,1.89,95.0,2.2,STMW,7889,Binding Protein
+81,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,0.5,2.2,102.0,0.85,119.0,2.2,SVI,2358,No Condition
+33,F,t,f,f,f,f,f,f,f,f,f,f,f,f,t,1.0,2.1,108.0,0.92,117.0,2.2,SVHC,7067,No Condition
+62,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,1.4,1.5,98.0,0.99,99.0,2.2,other,1046,No Condition
+45,M,t,f,f,f,f,f,f,f,f,t,f,f,f,t,1.7,1.8,94.0,0.86,109.0,1.85,SVHC,8082,No Condition
+39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.4,1.1,63.0,0.8,78.0,2.2,SVI,3378,General Health
+32,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,8.099999,2.5,90.0,0.95,95.0,1.85,SVHC,4481,Hypothyroid
+54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.69,3.4,147.0,1.35,109.0,2.2,other,8088,Binding Protein
+56,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.005,1.9,170.0,0.96,177.0,2.2,other,3979,Replacement Therapy
+57,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.0,2.1,102.0,0.97,105.0,1.85,SVI,3520,No Condition
+49,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,116.0,0.7,72.0,0.95,76.0,2.2,other,5504,Replacement Therapy
+32,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,1.8,2.2,101.0,1.13,90.0,2.2,other,2045,No Condition
+52,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.13,2.1,87.0,0.95,91.0,1.85,other,4686,No Condition
+44,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,0.3,1.5,94.0,1.07,88.0,2.2,other,739,No Condition
+23,F,f,f,f,f,f,f,f,f,t,t,f,f,f,f,7.9,2.2,104.0,1.07,97.0,2.2,SVHC,5148,Hypothyroid
+72,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,1.6,1.8,99.0,1.05,94.0,2.2,other,7193,No Condition
+30,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,1.7,111.0,0.82,135.0,1.85,SVHC,7430,No Condition
+33,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,1.8,93.0,0.97,96.0,1.85,SVHC,725,No Condition
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.2,2.6,84.0,0.98,86.0,2.2,other,2124,No Condition
+25,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,1.9,98.0,0.81,121.0,1.85,SVHC,1334,No Condition
+74,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,1.3,1.2,89.0,0.94,95.0,2.2,other,1882,No Condition
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6.3,1.7,146.0,1.22,119.0,2.2,other,4206,Hypothyroid
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.9,1.6,85.0,0.87,98.0,2.2,SVI,3589,No Condition
+66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.7,1.1,115.0,0.84,137.0,2.2,SVI,763,General Health
+50,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,2.0,77.0,0.75,103.0,2.2,other,2445,No Condition
+19,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,1.6,94.0,1.06,89.0,3.35,other,5164,No Condition
+64,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.49,1.6,97.0,0.79,123.0,2.2,other,8562,No Condition
+60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,18.0,1.5,66.0,1.0,66.0,2.2,SVI,3749,Hypothyroid
+25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,26.4,2.3,73.0,1.09,67.0,2.2,other,5012,Hypothyroid
+34,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.065,1.9,600.0,1.1,546.0,2.2,other,6794,Replacement Therapy
+35,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,2.5,126.0,1.13,112.0,1.85,SVHC,5813,No Condition
+40,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.15,1.7,132.0,0.93,141.0,2.2,other,2699,No Condition
+32,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.35,1.7,97.0,0.86,113.0,1.85,SVHC,6296,No Condition
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,2.1,140.0,1.05,132.0,2.2,SVI,4540,No Condition
+32,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.2,2.9,128.0,1.12,114.0,1.85,SVHC,2763,No Condition
+76,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,1.4,4.2,112.0,0.99,113.0,2.2,other,1556,No Condition
+25,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.4,1.9,63.0,0.81,78.0,1.85,other,4572,No Condition
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.02,1.8,162.0,0.99,164.0,2.2,other,3360,Hyperthyroid
+47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.68,1.8,104.0,0.89,117.0,2.2,other,4900,No Condition
+40,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.98,1.8,98.0,0.99,99.0,1.85,SVHC,3036,No Condition
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.005,2.1,98.0,0.9,109.0,2.2,SVHC,5156,No Condition
+47,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.7,1.9,99.0,0.79,125.0,1.85,SVHC,2273,No Condition
+34,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,19.0,3.9,146.0,1.16,125.0,2.2,other,5378,Hypothyroid
+73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,2.1,90.0,0.93,97.0,1.85,other,335,No Condition
+54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.38,1.1,128.0,0.8,160.0,2.2,SVI,2975,No Condition
+57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.7,2.3,91.0,0.97,94.0,2.2,SVI,201,No Condition
+27,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.74,2.0,108.0,0.6,180.0,1.85,other,7314,Miscellaneous
+36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.4,3.1,133.0,1.53,87.0,2.2,STMW,3665,Binding Protein
+76,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.83,2.1,134.0,1.07,125.0,1.85,SVI,8374,No Condition
+83,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.36,1.9,96.0,0.94,102.0,2.2,SVI,5962,No Condition
+76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,9.299999,1.9,107.0,1.13,95.0,2.2,other,7341,Hypothyroid
+65,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,0.1,2.2,94.0,0.89,106.0,2.2,other,1379,No Condition
+57,M,f,f,f,f,f,f,f,f,f,t,f,f,f,f,1.4,2.5,101.0,1.03,96.0,1.85,SVHC,4690,No Condition
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.01,1.5,160.0,0.87,185.0,2.2,SVI,3607,Hyperthyroid
+45,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.8,1.7,122.0,1.07,114.0,1.85,SVHC,106,No Condition
+35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.7,2.3,82.0,0.88,93.0,2.2,STMW,4545,No Condition
+76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.1,1.4,74.0,0.73,101.0,2.2,other,7905,No Condition
+68,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,0.9,76.0,0.63,121.0,2.2,SVI,7988,General Health
+68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.0,1.5,71.0,0.8,88.0,1.85,other,1383,No Condition
+44,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,1.1,1.5,105.0,0.9,117.0,2.2,SVI,63,No Condition
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,33.0,other,2563,Miscellaneous
+59,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,2.0,152.0,0.91,167.0,1.85,other,319,Replacement Therapy
+78,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,0.7,1.6,102.0,1.23,83.0,2.2,SVI,1879,No Condition
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.9,2.4,90.0,0.92,98.0,2.2,other,2875,No Condition
+32,F,t,f,f,f,t,f,f,f,t,f,f,f,f,f,0.025,3.7,139.0,1.34,104.0,2.2,other,2971,Binding Protein
+58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,8.0,1.3,83.0,0.85,98.0,1.85,other,881,Hypothyroid
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.75,1.8,114.0,1.01,113.0,2.2,other,3862,No Condition
+23,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,1.6,79.0,0.66,120.0,1.85,SVHC,7706,No Condition
+17,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.9,2.5,110.0,0.91,121.0,3.35,STMW,7134,No Condition
+43,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,1.2,78.0,0.72,108.0,1.85,other,2115,No Condition
+61,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,2.1,118.0,1.1,93.0,2.2,other,42,No Condition
+77,F,f,f,f,f,f,f,f,t,f,f,f,t,f,f,0.2,1.5,110.0,1.05,105.0,2.2,other,154,No Condition
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.0,2.3,69.0,0.91,76.0,2.2,SVHC,6818,No Condition
+47,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,2.9,69.0,1.01,68.0,1.85,SVHC,7183,No Condition
+46,F,t,f,f,f,f,f,t,t,t,f,f,f,f,f,5.3,1.6,93.0,0.91,102.0,2.2,other,6795,No Condition
+55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,24.0,0.6,21.0,0.97,22.0,2.2,other,705,Hypothyroid
+72,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,4.1,1.9,85.0,0.99,85.0,1.85,other,6974,No Condition
+49,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.7,1.9,106.0,0.97,109.0,1.85,SVI,1082,No Condition
+59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.7,2.1,86.0,0.92,93.0,1.85,other,2422,No Condition
+28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.0,3.1,107.0,1.05,103.0,1.85,SVHC,2502,No Condition
+60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,1.4,129.0,1.08,129.0,2.2,other,954,No Condition
+87,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,10.0,0.2,43.0,0.63,68.0,2.2,SVI,8222,No Condition
+50,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.0,2.2,91.0,1.11,82.0,1.85,other,3667,No Condition
+88,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,0.4,98.0,0.73,134.0,2.2,other,93,General Health
+50,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.1,2.2,81.0,0.94,86.0,2.2,SVI,2851,No Condition
+24,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.7,2.4,139.0,0.98,142.0,1.85,SVHC,8479,No Condition
+71,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.63,1.3,164.0,1.0,164.0,1.85,SVI,5984,Miscellaneous
+81,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,8.2,0.9,128.0,0.91,141.0,2.2,other,8512,Hypothyroid
+14,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.3,1.9,88.0,0.83,106.0,3.35,other,131,No Condition
+49,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.05,1.9,193.0,1.05,184.0,2.2,other,6337,Hyperthyroid
+20,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,1.9,173.0,1.32,131.0,2.2,other,8568,Binding Protein
+71,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.32,1.6,164.0,1.11,148.0,2.2,other,3243,No Condition
+46,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.2,1.3,114.0,0.84,136.0,1.85,SVI,8320,No Condition
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,2.2,145.0,1.23,118.0,2.2,SVHC,5518,No Condition
+24,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.5,1.8,92.0,1.02,90.0,1.85,other,3762,No Condition
+53,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,1.9,104.0,1.04,100.0,2.2,other,909,No Condition
+76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.48,0.8,62.0,0.76,82.0,2.2,SVI,8590,General Health
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.5,2.1,113.0,1.02,111.0,2.2,SVHC,4637,No Condition
+76,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,3.8,2.7,97.0,1.19,81.0,2.2,other,6377,No Condition
+59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,2.0,102.0,0.82,125.0,1.85,other,4160,No Condition
+49,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,3.7,2.0,53.0,0.71,75.0,2.2,other,6878,No Condition
+21,F,t,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,1.6,99.0,0.87,114.0,2.2,SVHC,5176,No Condition
+72,F,f,f,f,t,f,f,f,t,f,f,f,f,f,f,6.0,2.4,118.0,1.26,94.0,2.2,SVI,4084,No Condition
+53,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,2.4,3.7,172.0,1.67,103.0,2.2,other,5173,Binding Protein
+66,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.16,1.9,140.0,0.74,189.0,2.2,other,6617,Replacement Therapy
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.9,2.0,126.0,1.26,100.0,2.2,other,3320,No Condition
+71,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,3.1,1.6,87.0,0.98,89.0,2.2,other,709,No Condition
+54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.1,0.8,77.0,0.82,93.0,2.2,SVI,3929,General Health
+55,M,f,f,f,f,f,t,f,f,f,f,f,f,f,f,1.05,1.8,73.0,0.87,84.0,1.85,SVI,1376,No Condition
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.6,3.6,150.0,1.56,96.0,2.2,SVI,150,Binding Protein
+78,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,4.1,1.9,116.0,1.05,110.0,2.2,other,3252,No Condition
+23,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,2.0,156.0,1.17,134.0,1.85,SVHC,4365,No Condition
+71,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.02,1.8,143.0,0.87,164.0,2.2,SVHC,4688,Miscellaneous
+36,M,f,f,f,f,f,f,f,f,f,f,t,f,f,f,0.04,1.7,102.0,0.9,113.0,1.85,SVI,6406,No Condition
+67,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,18.0,1.7,72.0,0.82,88.0,1.85,SVI,1499,Hypothyroid
+75,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,1.4,79.0,0.79,101.0,1.85,SVI,3598,No Condition
+56,F,t,f,f,f,f,f,t,f,f,f,f,f,f,f,0.15,1.9,181.0,0.96,187.0,2.2,other,1709,Replacement Therapy
+79,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,2.2,97.0,1.01,97.0,2.2,other,2003,No Condition
+90,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.8,2.4,73.0,1.07,69.0,2.2,other,4875,No Condition
+97,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.3,1.8,93.0,0.89,104.0,29.0,SVI,7357,No Condition
+28,F,f,f,f,f,t,f,f,f,f,f,f,t,f,f,0.1,2.1,101.0,1.34,75.0,2.2,STMW,678,No Condition
+34,F,f,f,f,f,f,f,f,f,f,t,f,f,f,f,4.4,1.9,127.0,1.35,94.0,2.2,SVHC,8285,Binding Protein
+74,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,21.0,1.8,126.0,1.18,107.0,2.2,other,2328,Replacement Therapy
+68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.4,1.7,91.0,0.98,93.0,2.2,SVI,326,No Condition
+27,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.7,2.7,116.0,0.87,134.0,1.85,SVHC,6031,No Condition
+69,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.8,2.2,83.0,0.8,104.0,1.85,SVHC,7785,No Condition
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,2.6,92.0,0.94,98.0,2.2,SVI,1771,No Condition
+46,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,2.0,112.0,1.01,111.0,1.85,SVI,2816,No Condition
+36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,1.3,62.0,0.75,83.0,2.2,SVHC,2825,No Condition
+76,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,0.8,1.1,94.0,0.93,101.0,1.85,SVHD,2837,General Health
+87,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.3,1.1,64.0,0.55,116.0,2.2,SVI,7779,General Health
+52,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.9,2.0,73.0,1.04,70.0,2.2,other,2099,No Condition
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.005,7.1,184.0,1.03,177.0,1.85,other,5420,Hyperthyroid
+62,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.07,2.0,209.0,0.96,218.0,2.2,other,6503,Replacement Therapy
+44,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.2,2.2,113.0,1.09,103.0,2.2,SVHC,3822,No Condition
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.4,2.5,96.0,0.97,99.0,2.2,SVI,1699,No Condition
+41,F,f,f,f,f,f,f,f,t,t,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,34.0,other,3140,Miscellaneous
+64,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,7.7,1.9,111.0,1.12,99.0,2.2,other,4898,Replacement Therapy
+55,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,0.005,1.9,161.0,0.9,180.0,2.2,other,4064,Hyperthyroid
+54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.5,0.4,56.0,0.68,83.0,2.2,SVI,3701,General Health
+45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.97,1.1,77.0,0.86,89.0,2.2,SVI,5447,General Health
+75,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,1.4,1.6,86.0,0.89,97.0,1.85,other,8230,No Condition
+74,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.48,1.5,92.0,0.85,108.0,1.85,other,7026,No Condition
+73,F,t,f,f,f,f,f,t,f,f,f,f,f,f,f,0.1,2.5,156.0,0.95,120.0,2.2,other,1225,No Condition
+47,M,f,f,f,f,f,f,f,f,f,t,f,f,f,f,1.1,2.1,61.0,0.89,69.0,1.85,SVHC,7414,No Condition
+76,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,1.3,93.0,0.82,113.0,1.85,SVI,7074,No Condition
+36,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.3,1.1,69.0,0.6,114.0,1.85,SVI,1854,General Health
+34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6.8,2.4,96.0,1.06,90.0,2.2,other,3085,Hypothyroid
+62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.8,1.5,106.0,1.03,103.0,1.85,SVI,441,No Condition
+53,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,2.1,178.0,1.0,178.0,2.2,SVI,1510,Miscellaneous
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,141.0,0.05,3.0,1.06,3.0,2.2,other,6530,Hypothyroid
+57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,2.5,103.0,1.02,101.0,2.2,SVI,5037,No Condition
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.15,1.7,93.0,0.99,94.0,2.2,other,896,No Condition
+17,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,0.6,2.6,102.0,0.97,106.0,3.35,other,2285,No Condition
+76,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.6,2.2,162.0,1.04,156.0,1.85,SVHC,5853,Miscellaneous
+49,F,t,f,t,f,f,f,f,f,f,f,f,f,f,f,0.075,3.9,224.0,1.24,181.0,2.2,other,7260,Replacement Therapy
+25,F,f,f,f,f,t,f,f,f,t,f,f,f,f,f,1.8,1.9,158.0,1.58,100.0,2.2,STMW,8052,Binding Protein
+32,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.05,1.4,139.0,0.88,157.0,2.2,SVI,1985,Miscellaneous
+82,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,0.4,1.3,115.0,0.91,126.0,1.85,SVI,49,No Condition
+61,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,1.8,2.3,89.0,0.85,105.0,1.85,other,4099,No Condition
+55,F,f,f,f,f,f,f,f,t,f,f,f,t,f,f,2.6,2.4,74.0,0.97,76.0,2.2,other,7370,No Condition
+70,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.46,1.5,118.0,0.75,157.0,1.85,other,7768,Miscellaneous
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,1.7,74.0,1.02,73.0,2.2,other,1705,No Condition
+81,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,1.1,1.3,112.0,0.8,140.0,1.85,other,7559,No Condition
+66,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,1.9,91.0,0.96,95.0,1.85,SVI,8217,No Condition
+55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,11.0,1.5,144.0,1.24,116.0,2.2,other,3778,Hypothyroid
+59,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.025,5.7,372.0,1.27,291.0,2.2,SVHD,3695,Replacement Therapy
+38,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.4,2.0,91.0,0.78,117.0,1.85,SVHC,2668,No Condition
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,1.7,93.0,0.96,97.0,2.2,SVI,1045,No Condition
+72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,2.1,81.0,0.79,103.0,1.85,SVI,625,No Condition
+60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.2,1.6,101.0,1.1,92.0,2.2,SVI,3536,No Condition
+22,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.15,2.0,223.0,0.96,232.0,1.85,SVI,1111,Replacement Therapy
+37,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,12.0,2.4,84.0,1.24,68.0,2.2,STMW,4486,Hypothyroid
+79,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.28,1.5,138.0,0.99,139.0,1.85,SVI,8219,No Condition
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.6,1.6,116.0,1.04,111.0,2.2,SVI,6242,No Condition
+54,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,1.4,1.9,96.0,1.28,75.0,2.2,other,2027,Binding Protein
+46,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.5,2.0,106.0,0.9,118.0,2.2,other,7324,No Condition
+44,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.49,1.8,109.0,0.82,133.0,1.85,other,8633,No Condition
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.8,2.0,99.0,1.03,95.0,2.2,SVHC,6180,No Condition
+61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.81,2.3,103.0,1.02,100.0,2.2,other,4625,No Condition
+47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.4,1.6,100.0,1.01,99.0,2.2,STMW,4934,No Condition
+38,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.37,2.2,86.0,0.75,115.0,1.85,other,3622,No Condition
+39,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.25,2.9,136.0,1.44,94.0,2.2,other,4472,No Condition
+48,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.06,1.9,123.0,0.74,166.0,2.2,SVI,7263,Miscellaneous
+71,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6.3,1.4,66.0,0.64,103.0,1.85,other,7198,Hypothyroid
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.8,1.7,130.0,1.02,128.0,2.2,SVI,6813,No Condition
+74,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,28.0,1.9,74.0,1.03,72.0,2.2,other,3138,Replacement Therapy
+33,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,1.0,1.8,83.0,0.77,108.0,2.2,other,624,No Condition
+64,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.08,1.3,105.0,1.05,101.0,2.2,SVI,3346,No Condition
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.8,2.7,119.0,1.36,88.0,2.2,STMW,3130,No Condition
+16,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.055,2.6,109.0,0.99,110.0,3.35,SVI,8176,No Condition
+51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,49.0,other,2043,Miscellaneous
+48,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.15,2.7,119.0,1.12,106.0,2.2,SVI,2364,No Condition
+68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,55.0,0.6,15.0,0.89,17.0,1.85,SVI,4438,Hypothyroid
+23,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.7,1.0,115.0,0.92,125.0,1.85,SVI,4013,General Health
+54,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,78.0,0.95,82.0,1.85,other,629,No Condition
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,1.9,83.0,1.03,81.0,2.2,SVI,2974,No Condition
+55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,60.0,0.7,14.0,1.11,13.0,1.85,other,4678,Hypothyroid
+46,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.02,4.5,156.0,0.76,205.0,1.85,other,5161,Hyperthyroid
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.4,1.6,100.0,0.88,113.0,2.2,SVHC,4454,No Condition
+34,F,f,f,f,f,t,f,f,f,f,f,f,f,f,f,0.9,2.9,202.0,1.51,134.0,2.2,STMW,891,Binding Protein
+26,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.39,1.8,147.0,0.79,185.0,2.2,other,7064,No Condition
+37,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.21,1.9,156.0,0.84,187.0,2.2,other,5033,Replacement Therapy
+59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.68,1.2,23.0,0.17,136.0,1.85,other,6403,Binding Protein
+75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.0,1.8,82.0,1.0,82.0,2.2,SVI,1072,No Condition
+80,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,0.045,0.9,127.0,0.64,198.0,1.85,other,9028,Replacement Therapy
+32,F,f,f,f,f,f,f,f,t,t,f,f,f,f,f,1.3,1.9,84.0,0.85,98.0,2.2,other,1524,No Condition
+57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,2.5,135.0,1.02,132.0,2.2,other,2016,No Condition
+67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.98,1.8,94.0,0.88,107.0,2.2,SVHC,3037,No Condition
+38,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,1.0,2.0,139.0,0.94,149.0,2.2,other,1533,No Condition
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.8,1.9,182.0,1.5,121.0,2.2,SVI,5881,Binding Protein
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.72,2.1,114.0,1.11,103.0,2.2,other,3974,No Condition
+76,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,2.1,98.0,1.01,97.0,2.2,other,1793,No Condition
+63,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,5.6,1.4,56.0,0.96,58.0,1.85,SVI,1662,General Health
+61,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,7.9,2.9,116.0,1.02,114.0,1.85,other,4090,Hypothyroid
+76,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,1.3,93.0,1.01,91.0,1.85,SVI,2855,No Condition
+64,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.035,1.0,103.0,0.85,122.0,2.2,SVI,3235,General Health
+68,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,0.97,1.3,85.0,0.87,98.0,2.2,other,3611,No Condition
+44,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.7,1.9,108.0,1.04,103.0,2.2,SVHC,4278,No Condition
+67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,1.8,85.0,0.57,149.0,2.2,SVI,617,No Condition
+62,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,39.0,1.3,45.0,0.82,55.0,1.85,other,1508,Hypothyroid
+59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.2,1.2,70.0,0.71,99.0,1.85,other,2304,No Condition
+44,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.035,1.9,189.0,1.0,190.0,2.2,other,6014,Replacement Therapy
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.0,1.9,112.0,0.95,118.0,2.2,SVI,8110,No Condition
+66,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,5.0,2.0,106.0,1.05,101.0,1.85,SVI,8791,No Condition
+20,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.7,2.4,113.0,1.34,84.0,2.2,SVI,3170,No Condition
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.59,2.1,119.0,1.08,110.0,2.2,SVHC,3113,No Condition
+61,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.065,5.3,210.0,0.87,241.0,2.2,other,7176,Hyperthyroid
+24,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.15,2.7,116.0,0.82,143.0,1.85,other,2374,No Condition
+74,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.61,0.9,115.0,0.75,153.0,1.85,SVI,3728,General Health
+21,F,f,f,f,f,t,f,f,f,t,f,f,f,f,f,0.4,3.7,162.0,1.76,92.0,2.2,STMW,520,Binding Protein
+35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.93,2.8,155.0,1.01,153.0,2.2,SVHC,4184,No Condition
+45,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,1.7,90.0,0.57,158.0,1.85,SVHC,7221,Miscellaneous
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,1.7,109.0,0.93,117.0,2.2,other,4215,No Condition
+41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,1.6,91.0,0.91,100.0,2.2,other,128,No Condition
+33,M,f,f,f,f,f,f,f,f,f,t,f,f,f,f,1.8,2.4,120.0,0.99,121.0,1.85,SVHC,4704,No Condition
+52,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.7,2.0,83.0,0.63,132.0,1.85,other,7568,No Condition
+86,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.5,0.2,38.0,0.76,50.0,1.85,SVI,3513,General Health
+64,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,3.3,0.8,88.0,0.67,131.0,2.2,other,6999,Miscellaneous
+26,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.17,0.9,122.0,0.96,109.0,1.85,SVI,5268,General Health
+57,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,0.02,2.1,193.0,0.96,109.0,2.2,other,8904,Replacement Therapy
+62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,1.5,95.0,0.67,142.0,1.85,other,7479,No Condition
+29,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,1.8,93.0,0.69,135.0,1.85,SVHC,7472,No Condition
+66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.2,2.0,90.0,0.9,100.0,2.2,other,7347,No Condition
+63,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,11.0,1.9,57.0,1.0,57.0,2.2,other,9110,Hypothyroid
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.2,1.8,87.0,1.16,75.0,2.2,other,3077,No Condition
+55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.02,2.2,71.0,1.0,71.0,1.85,SVI,3903,No Condition
+61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,1.8,95.0,0.91,104.0,2.2,other,7110,No Condition
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,47.0,other,7913,Miscellaneous
+67,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,0.09,1.9,160.0,0.8,200.0,2.2,SVI,6816,Hyperthyroid
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.035,2.4,152.0,0.7,217.0,2.2,SVI,8381,Hyperthyroid
+50,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,80.0,1.4,41.0,1.14,36.0,1.85,other,4049,Hypothyroid
+63,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,8.099999,1.9,82.0,0.69,119.0,1.85,other,3636,Replacement Therapy
+70,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.46,0.7,78.0,0.59,132.0,1.85,other,7581,No Condition
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.33,2.3,99.0,0.98,101.0,2.2,other,4329,No Condition
+84,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.4,0.9,90.0,0.88,102.0,2.2,SVI,1560,General Health
+49,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,1.8,81.0,0.91,88.0,2.2,other,3394,No Condition
+57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.1,2.2,115.0,0.96,120.0,2.2,SVI,429,No Condition
+66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.83,2.3,113.0,0.84,134.0,2.2,other,3800,No Condition
+29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.4,1.7,94.0,0.97,97.0,2.2,other,3269,No Condition
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.5,2.6,120.0,1.15,104.0,2.2,SVI,653,No Condition
+39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,1.9,83.0,0.89,93.0,2.2,other,2761,No Condition
+52,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,0.7,90.0,1.07,84.0,2.2,SVI,718,General Health
+90,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,1.6,91.0,0.96,95.0,2.2,other,6780,No Condition
+73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.4,2.3,94.0,0.9,105.0,1.85,SVI,2126,No Condition
+57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.005,3.6,144.0,0.84,171.0,2.2,other,3961,Hyperthyroid
+66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,2.8,148.0,1.49,99.0,2.2,other,5917,No Condition
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.3,2.5,160.0,1.18,136.0,2.2,other,8304,Binding Protein
+72,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,2.2,128.0,1.12,114.0,2.2,other,8195,No Condition
+31,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,1.5,101.0,0.89,113.0,1.85,SVI,3112,No Condition
+60,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,3.7,1.9,115.0,1.07,107.0,2.2,other,5366,No Condition
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,1.3,106.0,0.84,125.0,2.2,SVI,3750,No Condition
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.1,2.9,104.0,0.95,110.0,1.85,SVHC,5857,No Condition
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.3,1.2,59.0,0.83,71.0,2.2,SVI,1914,No Condition
+30,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,4.5,2.0,139.0,0.86,161.0,2.2,SVHC,4115,Miscellaneous
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.05,1.7,109.0,0.8,137.0,2.2,SVHC,1286,No Condition
+42,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,1.1,0.7,61.0,0.74,82.0,2.2,SVI,577,General Health
+63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.2,1.4,90.0,0.82,110.0,2.2,SVI,140,No Condition
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,15.0,1.6,82.0,0.82,100.0,2.2,SVI,4510,Hypothyroid
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.34,0.7,66.0,1.17,56.0,2.2,other,7211,No Condition
+62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,2.1,87.0,0.93,94.0,1.85,SVI,1797,No Condition
+32,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,1.9,153.0,0.67,228.0,2.2,SVI,8109,Hyperthyroid
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.05,2.0,130.0,1.01,129.0,1.85,SVI,228,No Condition
+58,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.15,1.6,144.0,1.09,132.0,2.2,other,6856,No Condition
+21,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,22.0,1.5,107.0,0.91,118.0,1.85,SVI,8017,Hypothyroid
+78,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,1.9,1.7,107.0,1.08,99.0,2.2,other,6959,No Condition
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.055,8.5,244.0,0.98,249.0,2.2,other,4719,Hyperthyroid
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.07,2.7,123.0,1.29,95.0,2.2,other,7633,No Condition
+52,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.4,2.3,110.0,1.16,95.0,2.2,other,6754,No Condition
+40,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.7,1.8,96.0,0.94,101.0,2.2,other,3835,No Condition
+42,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,8.0,1.5,110.0,0.96,109.0,1.85,other,6261,Replacement Therapy
+71,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,2.7,1.2,107.0,1.1,97.0,2.2,other,3242,No Condition
+82,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,0.4,58.0,0.68,85.0,1.85,SVI,3129,General Health
+61,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,1.9,118.0,0.96,123.0,1.85,SVI,278,No Condition
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.2,1.5,108.0,1.07,101.0,2.2,other,6704,No Condition
+68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,16.0,1.4,68.0,1.01,67.0,2.2,SVI,3836,Hypothyroid
+75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.4,2.3,112.0,1.04,108.0,2.2,SVHC,120,No Condition
+75,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,1.7,3.1,90.0,0.96,94.0,2.2,other,8022,No Condition
+59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.7,1.9,96.0,0.94,101.0,1.85,SVHC,1752,No Condition
+67,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.15,1.6,94.0,0.87,108.0,1.85,SVHC,2368,No Condition
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.2,1.3,97.0,0.85,115.0,2.2,other,5768,No Condition
+39,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.06,2.4,148.0,1.07,138.0,2.2,other,5080,No Condition
+35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.5,1.2,124.0,1.12,111.0,2.2,other,3106,No Condition
+35,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.7,2.4,102.0,1.06,96.0,1.85,SVHC,3934,No Condition
+49,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,2.0,94.0,0.97,98.0,1.85,SVHC,1883,No Condition
+74,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,3.0,1.3,96.0,1.01,95.0,2.2,other,8603,No Condition
+51,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,2.6,118.0,0.91,130.0,1.85,SVHC,3726,No Condition
+78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.9,1.7,104.0,0.76,137.0,2.2,SVI,2940,No Condition
+59,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,7.8,1.9,89.0,0.85,105.0,1.85,other,7059,Hypothyroid
+80,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.7,1.7,119.0,0.87,137.0,2.2,SVI,668,No Condition
+31,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,1.6,124.0,0.96,129.0,1.85,other,8927,No Condition
+61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.2,1.8,123.0,1.04,118.0,2.2,SVHC,8141,No Condition
+72,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,3.7,1.3,83.0,1.38,60.0,2.2,SVI,3900,Binding Protein
+68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,1.5,126.0,1.26,100.0,2.2,SVHC,5580,No Condition
+60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.9,2.4,111.0,1.12,99.0,2.2,other,2277,No Condition
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,20.0,1.9,39.0,1.0,39.0,2.2,SVI,8866,Hypothyroid
+65,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,10.0,1.1,105.0,0.96,109.0,2.2,other,922,Hypothyroid
+57,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,0.3,1.9,145.0,0.81,180.0,1.85,SVI,1484,Miscellaneous
+41,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,0.015,2.5,22.0,0.96,109.0,1.85,other,4404,Miscellaneous
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.2,1.4,95.0,0.9,105.0,2.2,other,6499,No Condition
+40,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,0.15,1.6,114.0,0.81,141.0,2.2,other,1593,No Condition
+42,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,235.0,0.5,2.0,1.24,1.4,1.85,other,1641,Hypothyroid
+74,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,3.6,2.0,84.0,0.78,108.0,2.2,SVI,8967,No Condition
+29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.5,1.6,95.0,0.8,119.0,2.2,other,1065,No Condition
+67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.0,1.6,104.0,1.07,97.0,2.2,SVI,5938,No Condition
+38,F,f,f,f,f,f,f,f,f,f,t,f,f,f,f,0.59,2.3,99.0,0.96,103.0,2.2,SVHC,7405,No Condition
+86,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,13.0,1.9,87.0,0.92,94.0,2.2,other,4915,Hypothyroid
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,15.0,2.2,98.0,1.29,76.0,2.2,SVI,2918,Hypothyroid
+54,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.03,2.7,112.0,1.0,112.0,2.2,other,7594,No Condition
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.02,5.3,272.0,0.97,281.0,2.2,other,5158,Hyperthyroid
+64,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.6,1.5,133.0,1.08,124.0,1.85,SVI,3590,No Condition
+50,M,f,t,f,f,f,f,f,f,f,f,f,f,f,f,0.3,1.9,157.0,1.2,131.0,1.85,other,5807,Replacement Therapy
+52,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.19,3.0,108.0,1.13,96.0,2.2,other,7436,No Condition
+8,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.7,2.4,117.0,1.2,98.0,3.75,other,289,No Condition
+57,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.3,1.9,129.0,0.85,151.0,1.85,SVI,1474,No Condition
+21,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.3,1.6,88.0,1.01,87.0,1.85,other,3101,No Condition
+54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.11,1.9,152.0,0.8,190.0,2.2,other,7237,Miscellaneous
+45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,15.0,2.1,83.0,1.24,67.0,2.2,STMW,3160,Hypothyroid
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,3.0,235.0,1.38,171.0,2.2,SVHC,1356,Hyperthyroid
+39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.5,2.6,106.0,1.09,97.0,2.2,SVHC,7943,No Condition
+49,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,0.27,1.8,98.0,1.08,91.0,2.2,other,8350,No Condition
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.8,1.3,110.0,1.12,98.0,2.2,other,2085,No Condition
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.2,2.7,132.0,1.7,78.0,2.2,other,6771,No Condition
+61,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,6.8,0.9,96.0,1.01,95.0,2.2,other,6437,Replacement Therapy
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.6,2.0,86.0,0.86,100.0,2.2,SVI,6860,No Condition
+76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.5,1.6,105.0,0.96,109.0,2.2,other,620,No Condition
+47,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.6,1.7,66.0,0.75,88.0,1.85,other,5294,No Condition
+61,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.02,1.5,125.0,0.77,163.0,1.85,other,3569,Miscellaneous
+30,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.31,2.9,143.0,1.39,103.0,1.85,SVHC,7771,Binding Protein
+55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.7,2.4,133.0,1.0,132.0,1.85,other,2198,No Condition
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,9.9,0.7,111.0,0.92,120.0,2.2,SVI,3265,Hypothyroid
+43,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,2.6,69.0,0.94,73.0,2.2,SVI,1308,No Condition
+21,F,t,f,t,f,f,f,f,f,f,f,f,f,f,f,1.1,2.3,60.0,0.98,61.0,2.2,other,8692,No Condition
+84,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,2.8,0.2,94.0,0.81,116.0,2.2,other,8523,General Health
+78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.5,1.9,81.0,0.83,98.0,2.2,SVI,3135,No Condition
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.0,0.2,87.0,0.54,161.0,2.2,other,4304,General Health
+70,F,f,f,f,f,f,f,f,f,f,t,f,f,f,f,5.3,2.7,103.0,1.29,80.0,2.2,SVHC,7624,No Condition
+31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,114.0,other,6769,Miscellaneous
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,8.799999,0.6,40.0,0.83,48.0,2.2,other,8100,Hypothyroid
+37,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,2.5,111.0,0.97,114.0,2.2,other,2817,No Condition
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.5,1.7,98.0,0.74,132.0,2.2,SVHC,3548,No Condition
+84,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.6,2.3,162.0,1.03,158.0,2.2,SVI,1382,Miscellaneous
+46,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.2,2.4,116.0,0.8,145.0,22.0,SVI,7255,No Condition
+28,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.3,1.9,209.0,1.08,194.0,2.2,other,2316,Replacement Therapy
+27,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.15,1.9,103.0,0.74,139.0,1.85,SVHC,529,No Condition
+62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.1,2.3,130.0,1.24,105.0,1.85,other,2398,No Condition
+78,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.4,1.3,87.0,0.89,97.0,1.85,SVI,1839,No Condition
+53,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,104.0,0.93,112.0,1.85,SVI,1819,No Condition
+66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.6,2.4,100.0,1.0,100.0,2.2,SVI,2848,No Condition
+65,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,7.7,1.4,79.0,0.92,86.0,1.85,other,7758,Hypothyroid
+30,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.7,2.3,83.0,0.81,102.0,1.85,SVHC,8989,No Condition
+40,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,1.8,115.0,1.12,103.0,2.2,SVHC,7923,No Condition
+49,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,96.0,0.4,2.9,1.2,2.4,1.85,SVI,5757,Hypothyroid
+56,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,2.7,1.5,103.0,0.95,109.0,2.2,other,3768,No Condition
+57,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,1.9,92.0,0.92,100.0,1.85,SVI,1411,No Condition
+63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.2,2.4,134.0,0.92,145.0,2.2,SVHC,4857,No Condition
+50,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.15,2.2,151.0,0.91,166.0,2.2,other,2394,Replacement Therapy
+24,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.3,3.8,54.0,0.96,109.0,1.85,other,1726,Hyperthyroid
+80,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.2,1.1,88.0,0.83,106.0,1.85,SVI,9071,General Health
+75,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,0.045,2.0,146.0,1.05,139.0,2.2,SVI,5432,No Condition
+23,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.08,1.9,169.0,1.44,117.0,2.2,other,7547,Binding Protein
+44,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,16.0,1.9,87.0,0.91,95.0,1.85,other,3779,Hypothyroid
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,7.5,1.2,37.0,1.06,35.0,2.2,other,1526,Hypothyroid
+35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,31.0,other,1997,Miscellaneous
+53,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.02,4.3,250.0,1.01,247.0,2.2,other,4245,Hyperthyroid
+52,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,2.3,117.0,1.11,105.0,1.85,SVI,3369,No Condition
+68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,2.4,149.0,1.18,126.0,2.2,other,2357,No Condition
+61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.7,2.5,121.0,1.07,114.0,2.2,other,4734,No Condition
+36,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.04,1.9,169.0,0.98,172.0,2.2,other,8169,Replacement Therapy
+47,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,2.8,1.5,91.0,0.92,99.0,1.85,other,8762,No Condition
+32,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.09,0.6,91.0,0.68,134.0,2.2,SVI,6756,General Health
+85,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,197.0,1.9,105.0,0.96,109.0,2.2,SVI,5748,Hypothyroid
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.6,0.8,91.0,0.86,106.0,2.2,SVI,4276,General Health
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,2.5,95.0,0.98,97.0,1.85,SVI,7004,No Condition
+84,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.6,0.6,82.0,0.74,110.0,1.85,SVI,4592,General Health
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,1.8,142.0,1.13,125.0,2.2,other,3361,No Condition
+29,F,f,f,f,f,t,f,f,f,f,f,f,f,f,f,0.1,3.1,142.0,1.77,80.0,2.2,STMW,1971,Binding Protein
+75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,2.2,111.0,1.0,111.0,2.2,other,1763,No Condition
+65,F,f,f,f,f,f,f,t,t,t,f,f,f,f,f,1.3,2.1,162.0,1.19,137.0,2.2,other,4415,Binding Protein
+44,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.02,1.9,172.0,0.99,174.0,1.85,other,5838,Replacement Therapy
+24,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.3,1.8,95.0,0.82,116.0,2.2,SVHC,4221,No Condition
+19,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.0,2.2,115.0,1.02,114.0,3.35,other,5332,No Condition
+34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.5,1.9,74.0,1.36,54.0,2.2,other,6594,Binding Protein
+45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.1,2.0,68.0,0.93,73.0,2.2,other,8796,No Condition
+31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.3,2.7,108.0,1.05,103.0,2.2,SVHC,2183,No Condition
+24,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,430.0,0.4,6.0,1.04,6.0,2.2,other,426,Hypothyroid
+73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,8.0,1.3,101.0,0.93,108.0,1.85,SVI,4355,Hypothyroid
+25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.8,2.1,102.0,1.12,91.0,2.2,other,3599,No Condition
+75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.2,1.6,71.0,0.99,72.0,2.2,SVI,6688,No Condition
+45,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.9,2.6,92.0,0.9,102.0,1.85,other,2222,No Condition
+48,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,3.7,2.8,106.0,1.0,106.0,1.85,other,74,No Condition
+16,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,6.2,1.9,108.0,1.14,94.0,3.35,other,5528,Hypothyroid
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.3,2.5,105.0,1.01,103.0,2.2,other,2990,No Condition
+25,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.8,2.0,90.0,0.92,98.0,1.85,SVHC,4795,No Condition
+51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.5,4.4,4.0,1.11,3.5,2.2,other,395,No Condition
+29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.6,1.6,97.0,1.12,87.0,2.2,SVHC,3212,No Condition
+27,F,f,f,f,f,t,f,f,f,f,f,f,f,f,f,0.26,1.9,142.0,1.34,106.0,2.2,STMW,7082,Binding Protein
+62,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,260.0,0.05,4.0,1.27,3.0,2.2,SVI,795,Hypothyroid
+65,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.47,0.8,154.0,0.75,204.0,2.2,other,5539,Replacement Therapy
+50,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.035,1.9,165.0,0.9,182.0,2.2,other,6056,Replacement Therapy
+33,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,2.3,1.6,13.0,0.92,14.0,2.2,other,6154,Miscellaneous
+79,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,2.7,1.2,100.0,0.93,108.0,2.2,other,6875,No Condition
+74,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,23.0,0.2,50.0,0.85,58.0,2.2,SVI,3518,Hypothyroid
+67,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.6,0.4,80.0,0.57,140.0,1.85,SVI,6946,General Health
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.09,2.5,167.0,1.19,140.0,2.2,other,4211,Binding Protein
+29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,7.0,1.9,112.0,1.08,103.0,2.2,other,5092,Hypothyroid
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.6,2.1,79.0,0.89,90.0,2.2,other,1843,No Condition
+55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,0.6,55.0,0.55,100.0,2.2,other,704,Binding Protein
+64,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,2.7,1.2,98.0,0.91,107.0,1.85,other,1324,No Condition
+27,F,f,f,t,f,f,f,f,f,t,f,f,f,f,f,2.3,2.5,70.0,1.02,68.0,2.2,other,1229,No Condition
+49,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.7,2.1,102.0,0.93,110.0,1.85,SVI,2482,No Condition
+14,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.9,0.8,121.0,0.95,127.0,3.35,other,4741,No Condition
+86,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6.0,0.7,58.0,0.67,87.0,2.2,SVI,6968,General Health
+56,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.1,1.7,82.0,1.0,81.0,1.85,other,3164,No Condition
+15,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,3.4,1.9,112.0,1.3,86.0,3.35,other,3602,Binding Protein
+1,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,1.2,65.0,0.89,73.0,3.75,SVI,457,No Condition
+32,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,1.8,93.0,0.93,100.0,1.85,SVHC,3873,No Condition
+65,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.6,1.8,78.0,0.92,85.0,1.85,SVHC,1790,No Condition
+89,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.9,2.4,105.0,0.95,110.0,1.85,SVI,2402,No Condition
+39,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,1.9,94.0,0.93,101.0,2.2,other,2464,No Condition
+75,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,32.0,1.5,96.0,0.98,98.0,2.2,other,5653,Replacement Therapy
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.94,2.9,92.0,0.93,100.0,2.2,SVHC,4718,Binding Protein
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,2.0,83.0,0.87,96.0,2.2,SVHC,2456,No Condition
+41,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,1.8,2.3,84.0,0.95,88.0,2.2,other,613,No Condition
+36,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,1.4,1.9,105.0,0.96,109.0,35.0,other,5905,Miscellaneous
+29,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.5,2.6,157.0,1.31,120.0,2.2,other,7542,No Condition
+68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.4,2.2,117.0,0.86,136.0,1.85,SVI,2637,No Condition
+20,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,2.0,2.1,116.0,1.19,97.0,2.2,SVI,814,No Condition
+73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.7,1.3,44.0,0.55,80.0,1.85,other,229,Binding Protein
+78,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,1.7,87.0,0.95,92.0,1.85,SVHC,462,No Condition
+24,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.78,2.5,148.0,1.23,120.0,2.2,other,4494,No Condition
+63,M,f,f,f,f,f,f,f,f,f,f,t,f,f,f,0.78,1.9,85.0,1.1,77.0,1.85,SVI,4384,No Condition
+25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,11.0,0.7,122.0,1.13,108.0,2.2,SVI,3853,Hypothyroid
+79,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.2,1.5,159.0,1.17,136.0,2.2,other,5595,No Condition
+73,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,3.9,2.1,130.0,1.11,116.0,2.2,SVHD,5444,No Condition
+75,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,21.0,1.6,124.0,1.09,114.0,2.2,other,6573,Replacement Therapy
+56,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.04,3.8,162.0,1.04,155.0,2.2,SVHD,6414,No Condition
+55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.8,0.93,89.0,0.66,135.0,1.85,SVI,8407,General Health
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.15,2.8,199.0,1.46,137.0,2.2,STMW,2382,No Condition
+36,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.44,1.6,122.0,0.86,141.0,1.85,SVHC,6317,No Condition
+66,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,1.9,59.0,0.62,96.0,1.85,SVI,1747,No Condition
+53,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.05,4.3,184.0,1.19,155.0,2.2,other,5112,Binding Protein
+45,M,f,f,f,f,f,f,f,f,f,f,t,f,f,f,2.3,2.4,91.0,0.86,106.0,1.85,SVI,3928,No Condition
+28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.5,2.2,107.0,0.94,113.0,1.85,SVHC,2241,No Condition
+65,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,2.0,2.1,154.0,0.99,156.0,1.85,other,4422,Miscellaneous
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,2.4,95.0,1.01,94.0,2.2,SVI,1409,No Condition
+76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.05,2.6,149.0,1.24,120.0,2.2,SVHC,242,No Condition
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,44.0,other,6615,Miscellaneous
+41,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,1.1,1.9,165.0,0.99,167.0,2.2,other,7235,Replacement Therapy
+29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,1.9,178.0,2.02,88.0,2.2,STMW,7925,Binding Protein
+75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.98,1.9,150.0,1.03,146.0,2.2,SVI,6689,No Condition
+25,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,8.799999,2.2,109.0,0.97,113.0,1.85,other,3263,Hypothyroid
+76,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.5,1.5,81.0,0.92,88.0,1.85,SVI,3926,No Condition
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.1,114.0,0.92,124.0,2.2,SVI,966,General Health
+38,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,2.6,76.0,0.85,89.0,1.85,other,3805,No Condition
+74,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,2.0,2.2,109.0,0.91,119.0,1.85,other,4375,No Condition
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.84,2.0,101.0,1.04,97.0,2.2,SVHD,3351,No Condition
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,24.0,8.9,218.0,0.83,264.0,2.2,other,1530,Hyperthyroid
+62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,2.0,139.0,1.04,134.0,1.85,SVHC,3907,No Condition
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.025,2.3,122.0,0.86,142.0,2.2,other,3734,No Condition
+81,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,494.0,0.5,12.0,1.39,9.0,2.2,SVI,7220,Hypothyroid
+59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.35,2.2,172.0,1.28,134.0,1.85,SVHC,1724,Binding Protein
+64,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,0.98,1.5,106.0,0.87,122.0,2.2,SVI,6725,No Condition
+43,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.9,1.5,58.0,0.59,99.0,1.85,SVHC,5250,Binding Protein
+61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.88,0.3,46.0,0.58,79.0,2.2,SVI,2928,Binding Protein
+58,F,f,t,f,f,f,t,f,f,f,f,f,f,f,f,0.1,2.0,129.0,0.95,136.0,2.2,other,493,No Condition
+39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,96.0,other,7612,Miscellaneous
+42,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.2,2.0,57.0,0.41,140.0,1.85,SVHC,7454,Binding Protein
+21,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.1,1.9,94.0,0.88,107.0,1.85,other,409,No Condition
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,2.2,108.0,0.88,122.0,2.2,SVI,2283,No Condition
+64,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,24.0,1.1,100.0,0.82,122.0,2.2,other,7241,Hypothyroid
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,2.6,63.0,0.74,85.0,2.2,other,6911,No Condition
+21,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.025,2.3,119.0,0.79,151.0,1.85,other,8579,No Condition
+39,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,1.2,2.0,102.0,0.93,110.0,2.2,other,5081,No Condition
+63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.1,1.9,110.0,1.02,108.0,2.2,SVI,3165,No Condition
+42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.3,2.3,128.0,0.85,151.0,2.2,other,3901,No Condition
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.8,2.4,73.0,0.97,75.0,2.2,other,1972,No Condition
+59,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,0.1,2.2,156.0,0.94,166.0,2.2,other,977,Replacement Therapy
+65511,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.38,2.0,113.0,1.08,104.0,2.2,other,5711,No Condition
+66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.7,0.3,61.0,1.18,52.0,2.2,other,6702,No Condition
+46,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.62,3.3,130.0,1.2,108.0,2.2,other,7972,Binding Protein
+68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.3,2.2,99.0,0.86,115.0,1.85,SVI,1957,No Condition
+44,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.9,3.3,82.0,0.89,92.0,1.85,SVHC,7016,Miscellaneous
+65,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.75,1.1,78.0,0.71,110.0,1.85,SVI,8023,General Health
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.7,114.0,0.96,119.0,2.2,SVI,928,No Condition
+35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.8,1.9,189.0,1.47,128.0,2.2,STMW,6170,Binding Protein
+11,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,1.9,191.0,1.23,156.0,3.35,other,2780,Hyperthyroid
+72,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,1.9,180.0,0.9,200.0,2.2,other,427,Replacement Therapy
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,19.0,2.3,66.0,1.09,61.0,2.2,SVHC,336,Hypothyroid
+81,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,5.4,2.1,102.0,1.1,93.0,2.2,SVI,7402,No Condition
+56,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,0.05,1.9,137.0,1.09,126.0,1.85,SVI,2165,No Condition
+39,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,3.1,85.0,0.88,97.0,1.85,other,1748,No Condition
+83,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.79,1.3,108.0,0.76,141.0,1.85,SVI,6524,No Condition
+60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,2.1,74.0,1.11,67.0,2.2,SVI,1182,No Condition
+86,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,1.5,144.0,0.8,178.0,2.2,other,1194,Miscellaneous
+74,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,98.0,3.5,13.0,0.9,14.0,2.2,other,7144,No Condition
+63,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,6.6,2.2,103.0,0.86,120.0,2.2,other,6023,Replacement Therapy
+60,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,8.9,1.9,75.0,0.97,77.0,2.2,other,4513,Hypothyroid
+41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.5,1.8,78.0,0.88,89.0,2.2,other,148,No Condition
+83,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.2,1.8,107.0,1.02,104.0,1.85,SVHC,5896,No Condition
+49,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.7,2.4,101.0,1.12,90.0,2.2,SVHC,420,No Condition
+39,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.1,2.0,81.0,0.81,101.0,1.85,other,1404,No Condition
+50,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.4,2.8,94.0,0.88,106.0,1.85,SVHC,2154,No Condition
+34,F,f,f,t,f,t,f,f,f,t,f,f,f,f,f,0.01,3.8,205.0,1.84,111.0,2.2,STMW,4340,Binding Protein
+20,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.8,1.6,63.0,1.0,63.0,2.2,other,3624,No Condition
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.8,2.3,97.0,0.89,109.0,2.2,SVI,4814,No Condition
+84,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,17.0,1.9,35.0,0.83,42.0,2.2,other,4840,Hypothyroid
+28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.7,2.4,107.0,0.96,112.0,1.85,SVHC,8159,No Condition
+29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,2.1,146.0,1.2,121.0,2.2,other,7272,No Condition
+47,F,f,f,f,f,f,f,f,f,t,f,f,t,f,f,0.005,3.0,145.0,1.23,117.0,2.2,other,3021,Binding Protein
+32,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.7,2.6,113.0,1.03,110.0,2.2,SVI,1568,No Condition
+44,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.3,1.9,74.0,0.79,94.0,2.2,SVHC,8301,No Condition
+63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,2.0,87.0,1.03,84.0,2.2,other,1617,No Condition
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.79,1.7,118.0,0.99,119.0,2.2,other,6666,No Condition
+51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.4,2.2,108.0,1.12,96.0,2.2,other,8005,No Condition
+61,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,2.5,2.0,101.0,0.85,119.0,2.2,other,8163,No Condition
+76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.8,2.4,86.0,0.79,109.0,2.2,other,9063,No Condition
+24,M,t,f,f,t,f,f,f,f,f,f,f,f,f,f,3.3,1.2,70.0,0.87,80.0,1.85,SVI,1955,No Condition
+76,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,0.76,0.8,96.0,0.86,111.0,2.2,other,5756,General Health
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,2.5,180.0,1.25,144.0,2.2,other,8800,No Condition
+39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.7,2.0,78.0,0.84,93.0,2.2,other,3107,No Condition
+23,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.8,1.9,77.0,0.79,97.0,1.85,SVHC,3923,No Condition
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.6,1.8,126.0,1.02,124.0,2.2,SVI,358,No Condition
+63,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,1.8,2.0,152.0,1.18,129.0,2.2,other,4301,No Condition
+47,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.96,1.4,106.0,0.9,118.0,1.85,SVHC,6684,No Condition
+78,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,2.1,1.8,80.0,0.72,111.0,1.85,other,4036,No Condition
+50,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.82,2.1,124.0,1.03,121.0,1.85,other,5387,No Condition
+55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.91,1.8,93.0,1.04,89.0,1.85,SVI,3116,No Condition
+79,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,5.1,2.0,107.0,1.04,104.0,2.2,other,4648,No Condition
+76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,11.0,1.2,86.0,0.85,101.0,2.2,SVI,2468,Hypothyroid
+51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.2,2.1,104.0,1.57,66.0,2.2,SVI,37,No Condition
+51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.23,3.7,144.0,0.91,158.0,2.2,other,7141,No Condition
+49,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.8,2.2,94.0,0.92,103.0,1.85,SVI,1688,No Condition
+34,F,t,f,t,f,f,f,f,f,f,f,f,f,f,f,26.0,3.7,107.0,1.21,88.0,2.2,other,3322,Miscellaneous
+56,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,1.6,80.0,0.62,129.0,1.85,SVI,30,No Condition
+31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,196.0,0.94,209.0,2.2,other,2197,Hyperthyroid
+53,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,0.12,1.9,47.0,0.93,50.0,2.2,other,5620,General Health
+72,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,1.9,134.0,0.85,158.0,2.2,other,439,Replacement Therapy
+69,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,1.7,118.0,0.91,130.0,2.2,other,6347,No Condition
+50,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,3.5,2.1,177.0,1.0,177.0,1.85,SVI,8533,Miscellaneous
+34,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,4.1,4.0,159.0,1.62,98.0,2.2,STMW,4282,Binding Protein
+48,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,1.6,96.0,0.79,122.0,1.85,SVI,3172,No Condition
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.4,2.4,80.0,0.98,81.0,2.2,other,2872,No Condition
+42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.2,1.4,58.0,0.83,69.0,2.2,SVI,3224,No Condition
+28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.12,2.6,122.0,0.95,127.0,1.85,SVHC,7845,No Condition
+29,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.7,2.0,93.0,0.81,115.0,1.85,SVI,8196,No Condition
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,1.7,122.0,0.91,135.0,2.2,SVI,6597,No Condition
+28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.6,1.5,92.0,1.02,90.0,1.85,SVHC,5699,No Condition
+53,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,12.0,2.0,105.0,0.96,109.0,1.85,other,3126,Hypothyroid
+52,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.015,2.7,122.0,0.83,147.0,1.85,other,4308,No Condition
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.6,1.7,115.0,0.95,122.0,2.2,other,1523,No Condition
+58,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,2.1,115.0,0.95,121.0,1.85,other,1347,No Condition
+34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.0,1.7,98.0,0.98,100.0,2.2,SVHC,809,No Condition
+32,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.7,2.1,124.0,0.95,131.0,2.2,SVHC,6589,No Condition
+44,M,f,f,f,f,f,f,f,f,f,t,f,f,f,f,1.6,1.7,87.0,0.89,98.0,1.85,SVHC,6944,No Condition
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6.9,1.9,109.0,1.03,106.0,2.2,other,8990,Hypothyroid
+60,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.7,1.6,130.0,1.05,123.0,2.2,SVI,5260,No Condition
+48,F,f,f,f,f,f,f,f,f,t,f,f,t,f,f,0.42,2.5,93.0,1.14,82.0,2.2,other,4346,No Condition
+61,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.025,8.0,202.0,0.96,109.0,2.2,other,9025,Hyperthyroid
+49,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,2.2,1.2,89.0,1.09,82.0,2.2,SVI,2200,No Condition
+68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.005,1.8,142.0,1.05,135.0,2.2,other,4431,No Condition
+72,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,1.1,2.1,104.0,0.91,114.0,2.2,SVI,7459,No Condition
+44,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,2.2,103.0,1.2,86.0,1.85,other,5345,No Condition
+28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.05,1.6,91.0,0.88,103.0,1.85,SVHC,1833,No Condition
+27,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,2.2,99.0,0.82,120.0,1.85,SVHC,2375,No Condition
+76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,2.2,131.0,1.06,123.0,2.2,SVI,6641,No Condition
+52,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,25.0,1.9,33.0,0.96,34.0,2.2,other,6509,Hypothyroid
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,1.6,71.0,0.76,93.0,1.85,SVI,276,No Condition
+66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.19,1.4,97.0,0.87,111.0,2.2,SVI,4354,No Condition
+54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.1,3.8,157.0,1.52,103.0,2.2,SVI,4104,Binding Protein
+44,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.5,1.7,103.0,0.96,107.0,1.85,SVI,2865,No Condition
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.0,1.7,79.0,0.95,83.0,2.2,other,4881,No Condition
+67,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.3,2.0,125.0,1.01,124.0,1.85,SVI,4488,No Condition
+22,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,2.6,167.0,1.32,127.0,2.2,SVI,574,Binding Protein
+41,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,3.1,134.0,1.0,134.0,1.85,other,2440,No Condition
+44,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,11.0,0.8,86.0,0.66,130.0,1.85,SVI,5179,Hypothyroid
+52,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.3,2.5,114.0,1.07,106.0,1.85,SVHC,4622,No Condition
+22,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.9,2.6,172.0,1.34,129.0,2.2,other,1500,Binding Protein
+71,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,25.0,0.3,31.0,0.68,46.0,1.85,SVI,4091,Hypothyroid
+66,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.9,1.9,72.0,0.84,86.0,1.85,other,2232,No Condition
+32,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.1,2.3,76.0,0.86,88.0,1.85,other,6831,No Condition
+19,F,f,f,f,f,f,f,f,t,f,f,t,f,f,f,3.2,2.2,118.0,0.99,119.0,3.35,other,6042,No Condition
+40,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.5,1.9,125.0,0.98,128.0,2.2,other,135,No Condition
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,7.0,1.9,116.0,0.9,128.0,2.2,SVI,5747,Hypothyroid
+78,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,21.0,0.7,42.0,0.96,43.0,2.2,SVI,1597,Hypothyroid
+26,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,0.43,4.1,123.0,1.48,83.0,2.2,STMW,3059,Binding Protein
+58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,2.2,113.0,0.83,136.0,1.85,other,562,No Condition
+65,F,t,f,f,f,f,f,t,t,f,f,f,f,f,f,0.03,2.3,154.0,0.9,170.0,2.2,other,5592,Replacement Therapy
+34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.9,2.5,143.0,1.24,114.0,2.2,other,1034,No Condition
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.9,1.0,141.0,1.02,138.0,1.85,SVHC,6703,General Health
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.3,1.0,92.0,0.9,102.0,2.2,SVI,8282,General Health
+22,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.5,1.7,83.0,0.86,97.0,2.2,other,1805,No Condition
+52,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,1.1,1.5,136.0,1.08,126.0,1.85,SVI,788,No Condition
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,11.4,1.9,99.0,0.97,102.0,2.2,other,4872,Hypothyroid
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.8,2.0,139.0,1.02,137.0,2.2,SVHC,2916,No Condition
+83,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,8.299999,2.1,104.0,1.06,97.0,2.2,other,4496,Hypothyroid
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.07,2.1,182.0,1.03,177.0,2.2,other,6732,Hyperthyroid
+78,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,0.015,2.1,214.0,0.87,245.0,2.2,other,5340,Replacement Therapy
+55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.57,1.4,75.0,0.72,104.0,1.85,SVHC,5349,No Condition
+48,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,2.1,1.9,129.0,1.28,101.0,2.2,SVHC,7798,Binding Protein
+26,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,1.2,1.4,79.0,0.93,85.0,2.2,other,264,No Condition
+68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,1.3,116.0,0.83,139.0,1.85,SVHC,989,No Condition
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.7,1.3,96.0,1.14,84.0,2.2,other,5562,No Condition
+26,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,1.8,59.0,1.0,59.0,1.85,SVI,7465,General Health
+6,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.2,1.9,78.0,0.86,91.0,3.75,SVI,1462,No Condition
+29,F,f,t,f,f,f,f,f,t,f,f,f,f,f,f,20.0,1.9,79.0,1.16,68.0,2.2,other,5863,Hypothyroid
+18,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.33,1.9,154.0,0.86,179.0,3.35,other,8546,Replacement Therapy
+82,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.5,1.1,112.0,0.68,165.0,2.2,other,6918,No Condition
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,30.0,3.3,80.0,1.71,41.0,2.2,other,643,No Condition
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.15,2.7,101.0,1.06,96.0,2.2,other,1487,No Condition
+1,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,8.799999,1.9,113.0,0.86,131.0,3.75,STMW,3723,Hypothyroid
+75,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.075,3.0,139.0,0.98,141.0,1.85,SVHC,6454,No Condition
+74,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,0.5,2.4,100.0,1.07,93.0,2.2,other,4661,No Condition
+74,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,4.4,1.9,58.0,0.58,100.0,2.2,SVI,6044,Binding Protein
+50,F,f,f,t,f,f,f,f,f,t,f,f,f,f,f,5.5,1.6,44.0,1.08,40.0,2.2,other,5783,Miscellaneous
+65,F,t,f,f,f,f,f,t,t,f,f,f,f,f,f,4.1,2.1,135.0,1.19,113.0,2.2,other,9131,No Condition
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.6,1.3,146.0,0.89,165.0,2.2,other,4407,Miscellaneous
+42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,3.2,174.0,0.96,109.0,2.2,SVI,9118,Hyperthyroid
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,106.0,1.28,84.0,2.2,other,2650,Binding Protein
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,47.0,other,6173,Miscellaneous
+53,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.8,1.8,96.0,0.86,112.0,1.85,SVI,6308,No Condition
+55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.6,2.2,127.0,1.18,108.0,1.85,SVI,311,No Condition
+30,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,1.7,93.0,0.96,98.0,2.2,other,3621,No Condition
+38,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,2.0,109.0,0.98,111.0,2.2,STMW,981,No Condition
+61,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,1.4,0.9,63.0,0.65,97.0,2.2,SVI,8659,General Health
+48,F,f,f,f,f,f,t,f,f,t,f,f,f,f,f,0.72,1.7,144.0,1.08,133.0,2.2,other,6719,No Condition
+23,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.66,2.3,114.0,0.88,129.0,1.85,SVHC,5063,No Condition
+73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.4,1.4,91.0,1.05,87.0,1.85,SVI,6341,No Condition
+16,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.6,2.6,94.0,0.94,100.0,3.35,other,4912,No Condition
+45,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.75,2.3,119.0,0.94,126.0,1.85,other,5146,No Condition
+68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.5,2.3,81.0,0.92,88.0,1.85,SVI,2210,No Condition
+45,M,f,f,f,f,f,f,f,f,f,t,f,f,f,f,2.3,2.2,98.0,0.93,105.0,1.85,SVHC,8083,No Condition
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6.8,1.9,90.0,0.98,92.0,2.2,other,7338,Hypothyroid
+37,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.1,2.5,84.0,1.05,80.0,2.2,SVHC,3002,No Condition
+73,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,2.6,1.6,89.0,0.94,95.0,2.2,SVI,2509,No Condition
+66,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.33,2.2,134.0,0.95,141.0,1.85,SVI,7569,No Condition
+61,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.3,1.8,124.0,0.99,125.0,2.2,other,4579,No Condition
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,1.3,111.0,0.92,120.0,2.2,SVI,4634,No Condition
+66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.5,1.6,73.0,0.8,92.0,2.2,other,3896,No Condition
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.1,0.3,100.0,0.87,115.0,2.2,SVI,7057,General Health
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.05,2.6,132.0,1.03,128.0,2.2,SVI,2655,No Condition
+78,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,0.7,72.0,0.61,118.0,1.85,SVI,344,General Health
+23,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.6,2.0,104.0,1.06,98.0,2.2,other,3397,No Condition
+54,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,1.4,2.5,56.0,0.9,62.0,2.2,SVI,7671,General Health
+28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,2.3,120.0,0.94,128.0,1.85,SVI,8019,No Condition
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,170.0,0.3,12.0,1.05,11.0,2.2,other,303,Hypothyroid
+67,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,2.0,101.0,0.81,124.0,1.85,SVI,4217,No Condition
+34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.3,1.6,83.0,0.7,118.0,2.2,other,4517,No Condition
+51,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,1.7,2.6,126.0,1.03,122.0,1.85,other,111,No Condition
+44,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.41,0.8,105.0,0.82,127.0,2.2,SVI,4753,General Health
+19,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,5.7,1.9,104.0,1.1,94.0,3.35,other,4202,No Condition
+45,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,0.065,4.6,210.0,1.11,190.0,2.2,other,5492,Hyperthyroid
+25,F,f,f,f,f,f,f,f,f,t,f,f,t,f,f,1.9,2.1,95.0,0.94,101.0,2.2,other,7334,No Condition
+48,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.4,0.6,65.0,0.66,98.0,1.85,SVI,7408,General Health
+53,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.2,2.0,88.0,1.04,85.0,1.85,SVI,3593,No Condition
+26,F,f,f,f,f,t,f,f,f,f,f,f,t,f,f,0.88,1.9,119.0,1.52,78.0,2.2,STMW,6472,Binding Protein
+39,M,f,f,f,f,f,f,f,f,f,t,f,f,f,f,1.1,1.8,77.0,0.62,124.0,1.85,SVHC,8642,No Condition
+65,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.1,1.4,121.0,0.81,149.0,1.85,SVI,2572,No Condition
+42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,7.2,2.1,123.0,1.18,104.0,2.2,other,3566,Hypothyroid
+65,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.1,2.5,95.0,0.98,97.0,1.85,SVHC,9034,No Condition
+85,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.3,2.3,120.0,0.96,126.0,2.2,SVI,4871,No Condition
+72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.3,2.0,106.0,1.01,105.0,1.85,SVI,3294,No Condition
+25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.1,2.2,112.0,0.98,115.0,2.2,STMW,1877,No Condition
+66,M,f,f,f,f,f,f,f,f,f,t,f,f,f,t,6.0,2.0,91.0,1.07,85.0,1.85,SVHC,7921,No Condition
+37,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.1,1.9,117.0,1.0,118.0,1.85,SVHC,2935,No Condition
+39,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,0.8,2.2,91.0,0.79,115.0,2.2,other,8974,No Condition
+34,F,t,f,f,f,f,f,f,f,f,f,t,f,f,f,1.4,1.9,103.0,1.38,75.0,2.2,other,2329,Binding Protein
+46,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.5,1.7,132.0,1.02,130.0,2.2,other,4326,No Condition
+21,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.5,1.8,104.0,0.97,108.0,2.2,other,1279,No Condition
+59,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,5.5,0.7,77.0,0.74,104.0,1.85,SVI,5400,General Health
+74,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,7.6,1.6,122.0,1.12,108.0,2.2,other,1690,Replacement Therapy
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,100.0,0.9,62.0,0.94,66.0,2.2,SVI,498,Hypothyroid
+56,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.6,1.8,81.0,0.92,88.0,1.85,SVI,717,No Condition
+75,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,0.9,94.0,0.74,127.0,1.85,other,7477,General Health
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.6,1.3,89.0,0.9,98.0,2.2,SVHC,3608,No Condition
+30,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,3.1,202.0,1.74,116.0,2.2,STMW,980,Binding Protein
+18,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.6,2.5,104.0,1.19,87.0,3.35,other,388,No Condition
+68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.9,1.9,104.0,0.83,126.0,1.85,SVHC,990,No Condition
+61,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,0.15,2.1,97.0,1.03,95.0,2.2,other,2491,No Condition
+56,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,8.2,2.0,66.0,0.94,70.0,2.2,other,1857,Hypothyroid
+28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.3,1.8,109.0,0.91,119.0,1.85,SVHC,3038,No Condition
+91,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.1,1.2,84.0,0.91,92.0,2.2,other,8637,No Condition
+27,F,f,f,f,f,t,t,f,f,f,f,f,f,f,f,6.0,3.8,149.0,1.73,86.0,2.2,other,255,Binding Protein
+34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,2.5,104.0,1.2,86.0,2.2,STMW,2759,No Condition
+65,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,1.4,78.0,0.82,96.0,1.85,SVI,2812,No Condition
+18,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,0.25,2.5,269.0,1.63,165.0,3.35,STMW,1032,No Condition
+54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,36.0,other,3987,Miscellaneous
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.52,1.3,138.0,1.07,129.0,2.2,other,3408,No Condition
+42,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.8,2.4,106.0,1.05,101.0,1.85,SVHC,665,No Condition
+83,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,12.0,1.5,94.0,0.94,100.0,2.2,SVI,7089,Hypothyroid
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.7,1.9,132.0,1.26,105.0,2.2,SVI,6281,Binding Protein
+69,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,11.099999,1.3,88.0,1.06,83.0,2.2,other,3583,Hypothyroid
+32,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.33,2.3,77.0,0.83,93.0,1.85,other,8225,No Condition
+49,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.7,1.3,58.0,0.82,71.0,2.2,SVI,970,No Condition
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,460.0,0.5,22.0,1.38,16.0,2.2,SVI,8182,Hypothyroid
+66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.9,2.8,124.0,1.08,115.0,2.2,SVHC,6685,No Condition
+80,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.2,1.8,111.0,0.97,114.0,1.85,SVI,2740,No Condition
+58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.0,1.6,71.0,0.82,86.0,1.85,other,5418,No Condition
+46,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.0,1.8,115.0,1.01,114.0,1.85,SVHC,7934,No Condition
+64,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,32.0,1.4,85.0,1.18,71.0,2.2,other,1791,Replacement Therapy
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.62,2.3,102.0,1.03,99.0,2.2,other,6870,No Condition
+52,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.2,2.6,106.0,0.97,109.0,2.2,other,7621,No Condition
+54,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,0.6,1.8,100.0,0.77,130.0,1.85,other,2371,No Condition
+46,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.87,2.6,129.0,1.42,91.0,2.2,SVI,6907,No Condition
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.6,3.1,144.0,1.79,80.0,2.2,other,243,Binding Protein
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.0,1.7,127.0,0.92,138.0,2.2,SVHC,7268,No Condition
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.3,1.8,130.0,1.11,117.0,2.2,SVHC,1469,No Condition
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.7,2.0,45.0,0.96,109.0,2.2,SVHC,4117,Miscellaneous
+34,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.01,2.3,149.0,0.88,169.0,1.85,other,3086,Miscellaneous
+62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.2,1.7,85.0,0.87,98.0,1.85,SVHC,1565,No Condition
+30,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,1.9,107.0,0.85,126.0,2.2,other,6562,No Condition
+54,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,3.0,2.5,144.0,1.44,100.0,2.2,other,421,No Condition
+17,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,145.0,1.2,36.0,1.5,24.0,3.35,other,3084,Miscellaneous
+80,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,1.4,111.0,0.97,115.0,2.2,SVI,2051,No Condition
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,27.0,1.9,74.0,1.01,74.0,2.2,other,5607,Hypothyroid
+76,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.2,2.4,113.0,1.07,106.0,1.85,other,333,No Condition
+50,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,7.6,1.7,128.0,1.08,118.0,2.2,other,4136,Hypothyroid
+8,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,31.0,other,4181,Miscellaneous
+49,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,0.8,2.1,144.0,0.98,147.0,2.2,STMW,1424,No Condition
+55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,2.0,83.0,1.01,82.0,2.2,other,673,No Condition
+36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,7.5,4.1,139.0,1.65,84.0,2.2,SVI,2640,Hypothyroid
+79,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,4.8,0.7,77.0,0.96,109.0,2.2,other,8524,General Health
+79,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,7.4,2.2,84.0,0.92,91.0,1.85,other,297,Replacement Therapy
+60,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,183.0,1.1,45.0,0.97,46.0,2.2,other,3017,Hypothyroid
+57,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,2.6,0.7,115.0,0.96,109.0,2.2,SVI,5399,General Health
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.56,1.3,70.0,0.93,75.0,2.2,SVI,4655,No Condition
+72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.67,1.8,99.0,0.98,101.0,1.85,SVI,3711,No Condition
+83,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,2.6,119.0,1.22,97.0,2.2,other,2169,No Condition
+43,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.02,2.9,130.0,0.8,163.0,1.85,other,8742,Hyperthyroid
+65,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,1.3,1.4,144.0,1.3,110.0,2.2,other,6293,No Condition
+24,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.8,2.1,91.0,0.93,98.0,2.2,other,3574,No Condition
+33,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,8.2,1.5,74.0,0.9,83.0,2.2,STMW,3570,Miscellaneous
+78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.57,1.9,90.0,0.88,102.0,2.2,other,3375,No Condition
+36,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,2.4,179.0,1.36,131.0,2.2,other,1900,No Condition
+61,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,3.4,1.6,118.0,1.06,111.0,2.2,other,5978,No Condition
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.7,2.0,105.0,1.0,105.0,2.2,SVI,440,No Condition
+37,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.91,2.0,85.0,1.05,81.0,1.85,other,6352,No Condition
+68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,1.5,110.0,0.89,124.0,1.85,SVI,4109,No Condition
+76,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,7.4,1.9,122.0,0.94,130.0,1.85,SVI,9139,Hypothyroid
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,37.0,1.9,86.0,0.82,105.0,2.2,SVI,6204,Hypothyroid
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.8,2.2,57.0,0.92,63.0,2.2,SVHC,4083,Miscellaneous
+42,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,2.4,1.8,102.0,0.95,107.0,2.2,other,9142,No Condition
+34,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.02,2.3,122.0,1.66,73.0,2.2,STMW,3176,No Condition
+31,F,f,f,f,f,t,f,f,f,f,f,f,t,f,f,1.4,2.9,159.0,1.43,111.0,2.2,other,1965,Binding Protein
+64,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.4,1.5,77.0,0.88,88.0,2.2,SVI,969,No Condition
+61,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.02,2.1,128.0,0.94,136.0,1.85,other,3674,No Condition
+39,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,1.5,1.6,66.0,1.15,57.0,1.85,other,8722,No Condition
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.0,2.3,82.0,1.02,80.0,2.2,other,7617,No Condition
+29,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,1.1,1.5,93.0,0.75,124.0,2.2,other,3943,No Condition
+21,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,36.0,other,3942,Miscellaneous
+77,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.7,1.8,108.0,1.13,96.0,1.85,SVI,579,No Condition
+30,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,2.4,124.0,1.23,101.0,2.2,other,458,No Condition
+49,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.7,2.0,155.0,1.01,154.0,2.2,other,4766,No Condition
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.7,0.7,87.0,0.81,107.0,2.2,SVI,7985,General Health
+49,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.6,2.3,113.0,1.02,111.0,2.2,SVHC,1786,No Condition
+48,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.4,2.0,66.0,0.74,89.0,1.85,SVHC,4158,No Condition
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.02,2.2,165.0,0.89,186.0,2.2,SVI,4511,Hyperthyroid
+17,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,2.3,102.0,1.12,92.0,3.35,other,1343,No Condition
+45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.08,4.8,257.0,1.2,214.0,2.2,other,5110,Binding Protein
+77,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,6.7,1.9,114.0,1.52,75.0,2.2,other,352,Hypothyroid
+55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,0.8,75.0,0.77,98.0,1.85,SVI,1906,General Health
+55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,1.7,76.0,0.65,116.0,2.2,SVHC,1993,No Condition
+34,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.09,2.1,116.0,0.98,118.0,2.2,other,8842,No Condition
+62,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.64,1.4,130.0,0.91,143.0,2.2,other,8623,No Condition
+57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.67,2.6,79.0,0.84,93.0,2.2,other,5038,No Condition
+54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.1,1.5,66.0,0.72,92.0,2.2,other,1277,No Condition
+46,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.06,1.9,161.0,0.99,163.0,2.2,other,8452,Replacement Therapy
+36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6.0,1.7,121.0,1.12,108.0,2.2,other,4788,No Condition
+71,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.2,0.4,108.0,0.95,114.0,1.85,SVI,782,General Health
+52,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,2.3,116.0,0.94,123.0,1.85,other,2801,No Condition
+68,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,2.7,1.3,64.0,0.7,97.0,1.85,other,86,No Condition
+67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.9,2.3,121.0,1.07,113.0,2.2,SVI,1396,No Condition
+33,F,f,f,f,f,f,f,f,t,t,f,f,f,f,f,1.1,1.6,104.0,0.79,132.0,2.2,other,8671,No Condition
+73,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,0.8,61.0,0.49,124.0,1.85,other,4239,General Health
+52,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.45,2.1,107.0,0.9,119.0,2.2,other,5333,No Condition
+15,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,2.4,105.0,1.16,91.0,3.35,other,4976,No Condition
+55,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.4,2.3,86.0,1.08,80.0,1.85,SVI,2727,No Condition
+87,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.2,0.9,106.0,0.92,115.0,2.2,SVI,3206,General Health
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,8.599999,359.0,0.74,485.0,2.2,other,428,Hyperthyroid
+70,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,2.9,1.1,94.0,0.62,152.0,1.85,SVI,8670,General Health
+22,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,1.9,94.0,0.89,105.0,2.2,other,4053,No Condition
+73,F,t,f,f,f,t,f,f,f,f,f,f,f,f,f,1.2,1.8,121.0,0.91,134.0,2.2,other,6618,No Condition
+41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,7.3,1.9,127.0,0.9,141.0,2.2,other,8547,Hypothyroid
+65,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,109.0,0.92,118.0,2.2,other,8143,No Condition
+78,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.03,1.8,122.0,1.07,114.0,1.85,SVI,3473,No Condition
+64,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,10.0,0.8,99.0,0.97,102.0,2.2,SVI,4885,Hypothyroid
+76,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.1,1.4,99.0,0.6,165.0,1.85,SVI,6917,Miscellaneous
+74,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,0.6,1.6,95.0,1.07,89.0,2.2,SVI,2236,No Condition
+56,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,33.0,0.2,165.0,1.85,other,315,Replacement Therapy
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.2,1.6,114.0,0.72,158.0,2.2,SVI,7056,Miscellaneous
+30,F,t,t,f,f,f,f,f,f,f,f,f,f,t,f,0.2,1.2,128.0,0.82,156.0,2.2,other,754,Replacement Therapy
+43,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,0.95,1.9,101.0,0.81,125.0,2.2,other,2972,No Condition
+36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.4,4.7,172.0,0.87,198.0,2.2,other,8976,Binding Protein
+35,F,f,f,f,f,t,f,f,f,f,f,f,f,f,f,0.39,1.9,196.0,1.7,115.0,2.2,STMW,6611,Binding Protein
+93,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,2.7,0.4,77.0,0.86,90.0,2.2,other,3055,General Health
+33,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.5,1.4,97.0,1.04,93.0,1.85,SVI,593,No Condition
+55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.6,1.9,115.0,1.02,114.0,2.2,SVHC,5449,No Condition
+51,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,1.5,2.1,75.0,0.89,84.0,2.2,other,563,No Condition
+29,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,1.3,0.9,74.0,0.71,104.0,1.85,SVI,1941,General Health
+74,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,1.4,113.0,0.84,136.0,1.85,SVI,1039,No Condition
+79,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,10.0,1.9,125.0,0.99,127.0,2.2,SVI,5996,Replacement Therapy
+58,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,0.15,3.0,148.0,0.91,163.0,2.2,other,539,Hyperthyroid
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,90.0,0.4,7.5,0.94,7.5,2.2,other,80,Hypothyroid
+65,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,3.1,2.7,131.0,1.03,126.0,1.85,SVHC,3992,No Condition
+54,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,1.8,2.3,77.0,0.9,86.0,2.2,other,8735,No Condition
+20,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,3.2,2.6,38.0,1.1,35.0,2.2,other,6390,Miscellaneous
+36,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,2.1,1.7,83.0,0.58,143.0,2.2,SVI,7189,No Condition
+35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.005,3.1,239.0,1.0,239.0,2.2,STMW,5583,Hyperthyroid
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,2.2,97.0,0.87,111.0,2.2,other,4868,No Condition
+23,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,4.1,1.9,66.0,0.85,77.0,2.2,SVHD,4561,No Condition
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.18,1.4,104.0,0.83,125.0,2.2,SVI,7658,No Condition
+37,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,22.0,1.4,71.0,0.97,73.0,2.2,other,3739,Hypothyroid
+51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.4,2.2,78.0,1.04,75.0,2.2,other,7772,No Condition
+44,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.6,1.8,134.0,1.13,113.0,2.2,other,45,No Condition
+49,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,2.5,109.0,1.08,100.0,2.2,other,1968,No Condition
+54,F,f,f,f,t,f,f,f,t,f,f,f,f,f,f,0.86,1.7,98.0,0.96,102.0,2.2,SVI,3540,No Condition
+19,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,3.7,1.1,126.0,0.91,138.0,3.35,SVI,5171,General Health
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.4,2.7,101.0,0.96,105.0,2.2,other,2879,No Condition
+73,F,f,f,f,f,t,f,f,f,f,f,f,f,f,f,2.2,2.5,110.0,1.28,85.0,2.2,other,4830,No Condition
+20,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.05,1.9,228.0,1.05,217.0,2.2,SVI,815,Replacement Therapy
+51,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.065,1.9,248.0,1.43,173.0,2.2,other,6555,Replacement Therapy
+69,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.15,1.9,73.0,0.78,94.0,1.85,SVI,1715,No Condition
+42,F,f,f,t,f,t,f,f,f,t,f,f,f,f,f,0.005,3.9,205.0,1.7,121.0,2.2,STMW,3977,Binding Protein
+63,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,0.1,1.6,73.0,0.85,86.0,1.85,other,279,No Condition
+73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,2.6,77.0,0.86,90.0,1.85,other,291,No Condition
+58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.8,1.6,102.0,1.07,96.0,1.85,SVI,4589,No Condition
+75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.7,1.6,112.0,1.14,98.0,2.2,other,8377,No Condition
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,38.0,other,2256,Miscellaneous
+75,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,3.1,141.0,0.95,149.0,2.2,other,2122,No Condition
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,2.4,184.0,1.13,163.0,2.2,SVHC,94,Miscellaneous
+55,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,0.99,1.3,93.0,0.86,108.0,2.2,SVI,5125,No Condition
+34,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.04,1.9,158.0,0.91,174.0,2.2,other,7959,Miscellaneous
+32,F,t,f,f,f,t,f,f,f,t,f,f,f,f,f,0.3,3.0,101.0,1.14,89.0,2.2,other,2021,Binding Protein
+42,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.7,124.0,0.49,253.0,1.85,SVHC,7046,Miscellaneous
+35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.085,2.2,130.0,0.91,143.0,2.2,SVHC,6848,No Condition
+51,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,1.9,63.0,0.58,107.0,1.85,other,5627,No Condition
+34,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.2,2.3,99.0,0.79,125.0,1.85,SVHC,4858,No Condition
+44,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.8,2.3,129.0,1.24,103.0,1.85,SVHC,3114,No Condition
+90,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.9,1.6,102.0,0.99,103.0,2.2,SVI,161,No Condition
+22,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,1.9,98.0,1.28,77.0,2.2,STMW,6910,Binding Protein
+84,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,7.8,1.2,83.0,0.69,121.0,2.2,SVI,7456,Hypothyroid
+62,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,2.2,2.8,122.0,1.13,109.0,1.85,SVI,4392,No Condition
+18,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,9.599999,2.4,220.0,1.68,131.0,3.35,STMW,2289,No Condition
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.1,1.3,106.0,0.88,120.0,2.2,SVI,7565,No Condition
+63,M,t,f,f,f,f,f,f,f,f,f,t,f,f,f,0.005,1.3,96.0,0.92,104.0,1.85,other,8663,No Condition
+71,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.4,1.1,137.0,1.11,123.0,1.85,other,807,General Health
+40,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.6,2.4,105.0,0.99,106.0,1.85,SVHC,8200,No Condition
+64,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,1.9,159.0,1.04,153.0,2.2,other,2690,No Condition
+63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.07,1.1,145.0,0.87,167.0,2.2,SVI,8004,No Condition
+56,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,74.0,0.5,5.0,0.93,5.5,1.85,other,8781,Hypothyroid
+45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,1.2,95.0,0.84,113.0,2.2,STMW,7646,No Condition
+51,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,1.0,2.2,69.0,1.04,66.0,2.2,other,2728,No Condition
+54,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.0,2.4,107.0,1.06,101.0,1.85,other,2244,No Condition
+60,M,f,f,t,f,f,f,f,f,f,f,f,f,f,f,0.18,1.9,28.0,0.87,32.0,1.85,other,9158,General Health
+68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,56.0,0.6,23.0,1.01,22.0,2.2,other,877,Hypothyroid
+68,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,42.0,0.2,18.0,1.09,16.0,2.2,SVI,4085,Hypothyroid
+34,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.7,3.1,97.0,1.1,86.0,1.85,SVHC,3345,No Condition
+24,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.045,1.9,107.0,0.85,126.0,1.85,other,7527,No Condition
+78,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,25.0,0.9,50.0,0.84,60.0,2.2,SVI,1800,Hypothyroid
+19,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.4,2.3,92.0,0.96,96.0,3.35,SVI,1328,No Condition
+69,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,24.0,1.9,75.0,0.84,89.0,1.85,SVI,8550,Hypothyroid
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.12,1.4,91.0,0.81,112.0,2.2,SVI,7774,No Condition
+40,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.15,0.7,128.0,0.83,154.0,2.2,SVI,920,General Health
+45,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.2,2.1,101.0,0.84,121.0,1.85,SVI,2072,No Condition
+79,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,1.7,112.0,0.96,117.0,1.85,SVI,4696,No Condition
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,98.0,0.4,5.8,0.8,7.0,1.85,SVI,4200,Hypothyroid
+66,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,2.1,2.0,128.0,1.04,123.0,2.2,SVI,3838,No Condition
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.5,80.0,1.12,71.0,2.2,SVI,3649,No Condition
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,2.2,91.0,0.84,108.0,2.2,other,3287,No Condition
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.21,2.0,142.0,1.03,138.0,2.2,other,6791,No Condition
+31,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.8,2.4,107.0,0.83,129.0,1.85,SVHC,8302,No Condition
+59,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,0.06,2.5,121.0,1.25,97.0,2.2,other,3657,No Condition
+81,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.2,1.8,123.0,0.98,125.0,2.2,SVI,3331,No Condition
+28,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,39.0,other,1803,Miscellaneous
+56,F,t,f,f,f,f,f,f,f,t,f,f,f,f,f,1.4,1.9,296.0,0.8,370.0,9.299999,other,697,Replacement Therapy
+61,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,2.0,1.7,107.0,0.99,107.0,1.85,SVI,4370,No Condition
+26,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.73,2.9,102.0,0.88,116.0,1.85,SVHC,6609,No Condition
+42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,3.2,108.0,1.06,102.0,2.2,other,7369,Binding Protein
+68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,31.0,other,1240,Miscellaneous
+22,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.0,2.7,150.0,1.22,124.0,2.2,SVHC,4859,No Condition
+23,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,0.5,1.0,83.0,0.77,108.0,2.2,SVI,743,General Health
+64,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,2.2,2.3,113.0,0.69,164.0,2.2,other,6854,Miscellaneous
+47,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,1.9,245.0,0.71,345.0,2.2,other,764,Replacement Therapy
+49,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,8.299999,0.9,103.0,1.11,93.0,2.2,SVI,3834,Hypothyroid
+90,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,1.8,98.0,0.94,104.0,2.2,other,7403,No Condition
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,7.5,1.6,82.0,1.08,77.0,2.2,other,2560,Hypothyroid
+22,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.6,1.1,102.0,0.81,125.0,2.2,other,5071,No Condition
+41,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,5.1,1.8,91.0,1.12,82.0,2.2,other,5253,No Condition
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.6,2.7,100.0,1.04,96.0,2.2,other,2209,No Condition
+69,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,0.18,1.4,104.0,0.68,153.0,2.2,other,6665,No Condition
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.8,1.7,107.0,0.84,127.0,2.2,other,7226,No Condition
+35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,1.3,158.0,0.88,179.0,2.2,other,946,Hyperthyroid
+87,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.2,3.4,164.0,0.82,200.0,2.2,other,2791,Hyperthyroid
+68,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.8,2.0,87.0,0.95,91.0,2.2,other,5107,No Condition
+35,F,f,f,f,f,t,f,f,f,f,f,f,f,f,f,1.1,2.8,127.0,1.58,80.0,2.2,STMW,5805,No Condition
+39,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,7.1,1.9,106.0,0.94,114.0,2.2,other,5902,Hypothyroid
+63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.43,2.9,118.0,1.42,83.0,2.2,other,4197,Binding Protein
+47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.1,2.4,93.0,1.1,85.0,2.2,SVI,7383,No Condition
+25,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.2,1.9,99.0,1.02,97.0,2.2,SVI,536,No Condition
+31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.05,3.1,152.0,1.15,132.0,2.2,other,7689,Binding Protein
+57,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.6,2.1,123.0,0.97,127.0,2.2,SVI,430,No Condition
+35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.8,2.0,98.0,1.01,97.0,2.2,SVHC,3251,No Condition
+79,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,1.6,82.0,0.8,104.0,1.85,other,2162,No Condition
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.2,0.9,84.0,0.87,96.0,2.2,SVI,2926,General Health
+68,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,0.2,2.0,112.0,1.05,107.0,2.2,other,387,No Condition
+47,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,2.4,150.0,1.1,136.0,2.2,other,7410,No Condition
+66,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,20.0,1.9,42.0,0.98,43.0,2.2,other,6082,Hypothyroid
+44,M,t,f,f,f,f,t,f,f,f,f,f,f,f,f,21.0,1.9,76.0,0.9,84.0,1.85,other,5026,Replacement Therapy
+63,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.8,1.7,90.0,0.79,114.0,1.85,SVI,8756,No Condition
+33,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.4,2.2,90.0,0.98,91.0,1.85,other,1807,No Condition
+51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,82.0,0.6,10.0,0.94,10.0,2.2,other,1260,Hypothyroid
+48,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.8,2.7,102.0,0.94,109.0,2.2,SVHC,4638,No Condition
+85,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.65,2.1,160.0,0.98,163.0,2.2,other,8698,Miscellaneous
+22,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,1.0,2.3,87.0,0.89,98.0,1.85,other,2379,No Condition
+38,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,190.0,other,2894,Miscellaneous
+24,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.4,2.8,122.0,1.13,109.0,1.85,other,4004,No Condition
+60,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.01,1.8,130.0,0.86,151.0,2.2,other,8667,No Condition
+42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.6,2.5,125.0,1.22,102.0,2.2,other,2698,No Condition
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.3,2.5,88.0,0.95,93.0,2.2,other,2186,No Condition
+26,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.5,1.8,111.0,0.83,134.0,1.85,SVHC,8961,No Condition
+75,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.7,1.8,122.0,1.09,116.0,2.2,other,1110,No Condition
+34,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.88,3.0,69.0,0.67,102.0,1.85,SVHC,4130,No Condition
+61,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,1.2,2.3,96.0,0.72,133.0,1.85,other,7433,No Condition
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.9,2.3,89.0,0.89,100.0,2.2,SVI,1357,No Condition
+74,F,t,f,f,f,f,f,f,t,f,t,f,f,f,f,1.1,1.9,106.0,1.17,91.0,2.2,SVHC,8727,No Condition
+42,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,6.2,1.7,72.0,0.89,81.0,2.2,other,2539,Hypothyroid
+14,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,3.0,128.0,1.11,116.0,3.35,other,5225,Binding Protein
+25,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,6.7,1.9,114.0,1.19,96.0,2.2,other,489,Hypothyroid
+55,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.04,1.9,188.0,0.83,226.0,2.2,other,8147,Replacement Therapy
+42,F,t,f,f,f,f,f,f,f,f,f,t,f,f,f,1.9,2.2,126.0,0.97,130.0,2.2,other,6855,No Condition
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.085,4.0,221.0,1.09,203.0,2.2,other,8087,Hyperthyroid
+34,F,f,f,t,f,t,f,f,f,f,f,f,f,f,f,0.02,3.7,182.0,1.75,104.0,2.2,STMW,3709,Binding Protein
+50,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.54,1.8,160.0,1.1,146.0,2.2,other,4313,No Condition
+43,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.9,1.8,98.0,0.88,112.0,2.2,SVHC,6367,No Condition
+41,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.7,1.8,135.0,0.94,145.0,2.2,other,5877,No Condition
+29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,2.4,107.0,1.1,92.0,2.2,other,3571,No Condition
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.3,3.0,105.0,0.99,106.0,2.2,SVHC,7970,No Condition
+21,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.76,1.1,104.0,1.13,92.0,2.2,other,5940,No Condition
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.7,1.9,146.0,1.19,123.0,2.2,SVHC,1870,No Condition
+24,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,90.0,other,3376,Miscellaneous
+41,F,f,f,f,f,f,f,t,f,f,f,f,f,f,f,3.2,1.3,78.0,0.97,80.0,2.2,other,3498,No Condition
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,2.1,89.0,0.75,119.0,2.2,SVI,189,No Condition
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6.0,2.9,260.0,0.96,109.0,2.2,other,632,Binding Protein
+35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.3,1.5,70.0,0.8,88.0,2.2,other,1682,No Condition
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.2,1.9,101.0,0.99,102.0,2.2,SVI,5101,No Condition
+43,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,1.9,98.0,0.89,110.0,1.85,SVHC,1896,No Condition
+67,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,1.9,109.0,1.03,106.0,1.85,SVI,1916,No Condition
+55,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.005,1.9,107.0,0.74,144.0,2.2,other,5453,No Condition
+45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,1.6,125.0,0.95,132.0,2.2,SVHC,1204,No Condition
+48,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,0.69,115.0,0.8,144.0,2.2,other,8404,No Condition
+55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.7,2.1,142.0,1.03,138.0,2.2,SVI,581,No Condition
+42,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,7.2,1.3,93.0,0.9,104.0,2.2,other,4751,Miscellaneous
+70,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.97,1.3,113.0,0.91,124.0,1.85,SVI,6676,No Condition
+33,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.2,2.2,118.0,0.89,132.0,1.85,SVHC,4302,No Condition
+72,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,0.7,1.4,110.0,0.88,124.0,2.2,SVI,4849,No Condition
+47,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.15,4.3,189.0,1.07,176.0,2.2,other,2360,Hyperthyroid
+66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.7,2.4,133.0,1.29,103.0,2.2,other,7819,No Condition
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.65,0.9,92.0,0.71,129.0,2.2,SVI,2889,General Health
+49,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.5,1.8,86.0,0.82,105.0,1.85,SVHC,1823,No Condition
+40,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,12.0,1.9,97.0,1.01,97.0,2.2,other,5557,Hypothyroid
+18,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,41.0,other,2893,Miscellaneous
+60,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.85,1.9,196.0,1.73,113.0,2.2,other,5925,Binding Protein
+68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.0,1.6,78.0,0.82,95.0,1.85,SVI,376,No Condition
+51,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,1.8,85.0,0.78,109.0,1.85,SVI,9040,No Condition
+61,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,0.2,3.8,252.0,1.13,222.0,2.2,other,1908,Hyperthyroid
+30,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,1.4,2.2,122.0,1.1,111.0,2.2,other,4723,No Condition
+49,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,7.4,1.9,101.0,0.83,122.0,2.2,SVHD,7567,Replacement Therapy
+37,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.09,2.2,128.0,0.75,172.0,2.2,other,4411,Miscellaneous
+55,F,t,t,f,t,f,f,f,f,f,f,f,f,f,f,0.005,1.6,115.0,0.84,138.0,2.2,SVHD,3323,No Condition
+54,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,22.0,1.5,52.0,0.84,62.0,2.2,SVHD,8720,Hypothyroid
+40,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,73.0,1.9,43.0,0.87,49.0,1.85,other,7860,Hypothyroid
+62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,145.0,1.36,107.0,1.85,other,755,Binding Protein
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,1.0,82.0,0.75,109.0,2.2,SVI,104,General Health
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,47.0,0.2,2.0,0.84,2.0,2.2,other,4679,Hypothyroid
+78,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,1.3,1.6,100.0,1.11,90.0,2.2,other,1018,No Condition
+48,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.1,2.5,90.0,1.03,88.0,2.2,STMW,4640,No Condition
+50,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.17,1.7,120.0,0.98,122.0,2.2,other,5313,No Condition
+39,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,6.9,1.6,125.0,1.02,123.0,2.2,other,2901,Replacement Therapy
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.0,1.9,116.0,1.73,67.0,2.2,STMW,8784,Binding Protein
+33,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.3,1.9,97.0,0.9,108.0,1.85,SVHC,1417,No Condition
+69,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,1.8,136.0,0.92,149.0,2.2,other,2911,No Condition
+66,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,8.9,1.9,119.0,1.19,100.0,2.2,other,8102,Hypothyroid
+62,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,1.2,2.5,102.0,1.11,92.0,1.85,other,1735,No Condition
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.37,1.9,165.0,1.64,101.0,2.2,other,7775,Binding Protein
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.035,4.9,192.0,1.09,176.0,2.2,other,4756,Hyperthyroid
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,393.0,1.9,15.0,1.17,13.0,2.2,other,7316,Hypothyroid
+59,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,3.0,120.0,1.14,105.0,1.85,other,556,No Condition
+76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,24.0,1.9,74.0,0.84,88.0,2.2,SVI,5987,Hypothyroid
+43,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,1.6,89.0,0.93,96.0,1.85,SVHC,729,No Condition
+69,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,1.6,86.0,0.7,123.0,1.85,SVI,1778,No Condition
+53,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.2,0.7,61.0,0.46,133.0,2.2,other,7482,No Condition
+51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.0,1.9,91.0,1.03,89.0,2.2,other,2672,No Condition
+53,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.4,1.7,77.0,0.8,97.0,2.2,SVI,1570,No Condition
+75,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,2.2,100.0,0.97,104.0,1.85,SVI,2271,No Condition
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.6,2.2,94.0,0.89,106.0,2.2,SVI,5039,No Condition
+28,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.03,2.4,220.0,1.48,149.0,2.2,other,6394,No Condition
+24,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,1.04,2.5,116.0,0.89,131.0,2.2,other,6575,No Condition
+65,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,21.0,1.2,72.0,0.96,109.0,2.2,other,2435,Hypothyroid
+34,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,0.38,1.9,137.0,0.82,167.0,2.2,SVI,6951,No Condition
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.6,1.9,83.0,1.01,82.0,2.2,SVHC,259,No Condition
+75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,17.0,1.4,104.0,1.15,90.0,2.2,SVI,9124,Hypothyroid
+23,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,3.3,247.0,0.93,265.0,2.2,other,1028,Hyperthyroid
+69,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.8,2.6,122.0,1.03,118.0,1.85,other,6872,No Condition
+20,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.2,1.5,103.0,1.1,93.0,1.85,SVHC,5723,No Condition
+29,F,f,f,f,f,t,f,f,f,f,f,f,f,f,f,0.62,3.8,211.0,1.88,112.0,2.2,STMW,3936,Binding Protein
+54,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,7.0,1.9,95.0,0.98,98.0,2.2,other,2033,Replacement Therapy
+51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,1.9,96.0,1.0,96.0,2.2,other,8632,No Condition
+19,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,164.0,1.9,65.0,1.59,41.0,3.35,other,6322,Hypothyroid
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,0.9,103.0,0.84,123.0,2.2,SVI,700,General Health
+66,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,1.2,1.5,142.0,1.08,131.0,2.2,other,926,No Condition
+63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,1.9,97.0,1.03,94.0,2.2,other,3528,No Condition
+63,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,162.0,0.81,200.0,2.2,other,4765,Hyperthyroid
+47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,11.0,2.1,95.0,1.07,89.0,2.2,other,7393,Hypothyroid
+67,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,1.7,0.7,79.0,0.77,102.0,2.2,SVI,3094,General Health
+19,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,105.0,0.96,109.0,65.0,other,2431,Miscellaneous
+49,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,2.0,99.0,0.89,111.0,2.2,other,1163,No Condition
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.1,2.6,162.0,1.21,134.0,2.2,other,3289,Binding Protein
+57,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.93,1.4,57.0,0.72,79.0,1.85,other,7441,No Condition
+19,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,4.0,2.9,122.0,1.02,119.0,3.35,SVHC,4157,Binding Protein
+70,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,0.005,1.7,71.0,1.08,66.0,2.2,other,3410,No Condition
+46,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,3.2,160.0,1.53,105.0,1.85,other,4305,Binding Protein
+72,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,5.8,1.4,107.0,1.07,100.0,2.2,SVI,5324,No Condition
+30,F,f,f,f,f,t,f,f,f,f,f,f,f,f,f,0.71,3.1,125.0,1.39,90.0,2.2,STMW,4285,Binding Protein
+37,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,2.1,118.0,0.76,155.0,1.85,other,1187,No Condition
+58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,2.4,102.0,0.77,134.0,1.85,other,2819,No Condition
+37,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,1.0,117.0,1.19,98.0,2.2,other,6886,No Condition
+55,F,t,f,f,f,f,f,f,t,f,f,f,f,f,f,9.599999,2.4,136.0,1.48,92.0,2.2,other,40,Replacement Therapy
+32,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,2.7,163.0,1.14,143.0,1.85,SVHC,7952,No Condition
+24,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,1.7,74.0,0.98,111.0,2.2,other,417,No Condition
+70,M,t,t,f,f,f,f,f,t,f,f,f,f,f,f,9.5,0.5,99.0,0.59,169.0,1.85,other,5915,No Condition
+64,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.3,119.0,0.76,157.0,1.85,SVI,6166,Miscellaneous
+27,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.5,1.3,108.0,0.79,137.0,2.2,SVI,1801,No Condition
+70,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,7.8,1.9,52.0,0.77,68.0,1.85,other,8339,Replacement Therapy
+83,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.38,2.1,90.0,0.88,102.0,1.85,other,4070,No Condition
+23,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.75,2.2,106.0,0.88,120.0,1.85,SVHC,7920,No Condition
+57,F,f,f,f,t,f,f,f,t,f,f,f,f,f,f,4.8,2.1,85.0,0.97,87.0,2.2,other,6144,No Condition
+51,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,2.2,129.0,1.05,122.0,1.85,SVI,1757,No Condition
+46,F,t,f,f,f,f,t,f,t,t,f,f,f,f,f,3.4,1.8,123.0,0.9,137.0,2.2,other,7315,No Condition
+73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.0,1.4,48.0,1.05,46.0,1.85,SVI,2741,General Health
+66,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.81,1.1,143.0,0.91,157.0,1.85,SVI,8018,No Condition
+73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,1.2,108.0,0.94,115.0,1.85,SVI,6914,No Condition
+70,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.3,1.8,159.0,1.0,159.0,2.2,other,1729,Replacement Therapy
+34,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.67,1.3,72.0,0.75,96.0,1.85,SVHC,7740,No Condition
+33,F,f,f,f,f,f,t,f,f,f,f,f,f,f,f,8.799999,2.0,91.0,0.82,111.0,2.2,other,6637,Miscellaneous
+79,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,11.0,1.9,127.0,0.93,137.0,2.2,other,6520,Replacement Therapy
+61,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,9.799999,0.4,81.0,0.64,126.0,2.2,SVI,1816,Hypothyroid
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.3,2.6,111.0,1.06,105.0,2.2,other,3015,No Condition
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,1.6,84.0,0.87,97.0,2.2,SVI,1943,No Condition
+26,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,1.9,137.0,1.63,84.0,2.2,other,2125,Binding Protein
+31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,44.0,1.9,79.0,0.82,96.0,2.2,STMW,6351,Hypothyroid
+48,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,3.4,1.8,87.0,0.89,98.0,2.2,other,1322,No Condition
+55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.015,1.8,180.0,0.82,219.0,2.2,other,5379,Hyperthyroid
+29,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,1.6,2.2,87.0,0.95,92.0,2.2,other,4363,No Condition
+45,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,2.2,141.0,0.98,144.0,1.85,other,5623,No Condition
+49,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,2.5,2.5,100.0,1.03,97.0,2.2,other,8351,No Condition
+52,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,9.599999,1.2,126.0,0.9,140.0,1.85,other,8911,Hypothyroid
+50,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.7,1.4,71.0,0.79,91.0,1.85,SVI,1295,No Condition
+63,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.4,1.4,115.0,1.02,113.0,1.85,SVI,1956,No Condition
+39,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.05,2.3,95.0,0.89,106.0,1.85,SVHC,2166,No Condition
+83,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,0.8,77.0,0.78,98.0,1.85,SVI,904,General Health
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.0,0.9,95.0,0.78,122.0,2.2,SVI,703,General Health
+32,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.99,2.5,101.0,0.98,103.0,1.85,SVI,7616,No Condition
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.28,0.5,109.0,0.77,142.0,2.2,SVI,7684,General Health
+85,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,138.0,1.1,27.0,1.19,23.0,2.2,SVI,844,Hypothyroid
+54,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,0.05,1.8,79.0,0.68,116.0,2.2,SVI,68,No Condition
+67,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,0.2,0.9,75.0,0.73,102.0,2.2,other,1873,General Health
+76,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.5,1.6,97.0,0.88,110.0,1.85,SVI,83,No Condition
+67,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,1.0,65.0,0.63,105.0,1.85,SVI,3815,General Health
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.0,2.0,131.0,0.95,138.0,2.2,SVI,4901,No Condition
+40,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,1.7,99.0,0.82,109.0,2.2,SVI,1233,No Condition
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.9,107.0,0.93,115.0,2.2,SVHC,7096,No Condition
+74,M,f,f,f,f,f,f,f,t,f,f,f,f,f,f,1.5,2.1,70.0,0.74,94.0,1.85,SVI,4080,No Condition
+61,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,2.0,137.0,1.15,119.0,2.2,other,7442,No Condition
+43,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.3,2.5,70.0,0.93,75.0,1.85,SVI,3326,No Condition
+40,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,1.8,81.0,0.85,95.0,1.85,SVHC,5785,No Condition
+19,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.6,2.3,100.0,0.94,106.0,3.35,other,2675,No Condition
+55,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,4.1,2.0,78.0,0.79,99.0,2.2,STMW,1619,No Condition
+77,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,1.7,1.9,80.0,0.9,90.0,1.85,SVHD,6572,No Condition
+32,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.05,3.1,206.0,1.59,129.0,2.2,other,2632,Binding Protein
+33,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.4,2.0,114.0,1.01,113.0,2.2,other,53,No Condition
+59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,2.0,2.4,94.0,0.96,98.0,1.85,SVHC,4300,No Condition
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,3.7,170.0,1.83,93.0,2.2,STMW,108,Binding Protein
+54,F,f,f,f,f,f,f,f,f,f,f,t,f,f,f,0.4,1.8,83.0,0.91,92.0,2.2,other,1340,No Condition
+28,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.1,2.0,105.0,0.9,116.0,1.85,SVHC,3041,No Condition
+14,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.8,2.5,80.0,0.89,90.0,3.35,other,5068,No Condition
+55,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.9,1.8,89.0,0.93,96.0,2.2,other,310,No Condition
+53,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.4,2.6,151.0,1.16,130.0,1.85,SVI,4552,No Condition
+36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.88,1.6,114.0,1.02,112.0,2.2,other,3465,No Condition
+22,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.7,2.1,83.0,0.82,101.0,1.85,other,3587,No Condition
+67,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.97,1.8,102.0,0.92,111.0,1.85,SVI,4656,No Condition
+24,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.1,2.5,72.0,0.78,92.0,1.85,other,1239,No Condition
+33,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.045,2.1,159.0,1.01,157.0,2.2,SVI,5508,Miscellaneous
+34,F,f,f,t,f,f,f,f,f,t,f,f,f,f,f,27.0,4.4,273.0,1.22,222.0,2.2,STMW,5133,Hyperthyroid
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.45,1.6,101.0,0.89,114.0,2.2,other,4007,No Condition
+35,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.15,5.1,167.0,1.0,168.0,2.2,other,2356,Hyperthyroid
+36,F,f,f,f,t,f,f,f,f,t,f,f,f,f,f,2.9,2.0,96.0,0.91,106.0,2.2,other,7051,No Condition
+52,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.15,2.7,133.0,1.05,127.0,2.2,SVI,2888,No Condition
+73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.7,1.1,62.0,0.7,89.0,1.85,SVI,4940,General Health
+81,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.06,3.2,138.0,1.08,128.0,2.2,other,7508,No Condition
+54,F,t,f,f,f,f,f,f,f,f,t,f,f,f,f,0.94,1.3,78.0,1.12,70.0,2.2,SVHC,3454,No Condition
+42,M,t,f,f,f,f,f,f,f,t,f,f,f,f,f,8.9,1.3,75.0,0.74,102.0,1.85,other,5822,Replacement Therapy
+76,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.04,0.9,100.0,1.01,100.0,2.2,SVI,6272,General Health
+36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,1.0,77.0,0.86,90.0,2.2,other,5395,No Condition
+72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,25.0,0.3,4.1,1.2,3.4,1.85,other,340,Hypothyroid
+26,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.7,2.5,130.0,1.08,121.0,1.85,SVHC,3004,No Condition
+40,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.4,1.8,92.0,0.85,108.0,1.85,SVHC,5427,No Condition
+46,F,f,f,f,f,f,f,f,f,f,t,f,f,f,f,2.5,1.5,69.0,0.9,77.0,2.2,SVHC,6879,No Condition
+85,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,0.6,124.0,0.96,129.0,1.85,other,5898,General Health
+70,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.6,2.2,94.0,0.81,116.0,1.85,SVI,8602,No Condition
+41,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.025,4.4,138.0,0.64,218.0,1.85,other,4046,No Condition
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.2,1.9,89.0,1.0,89.0,2.2,SVI,1753,No Condition
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.7,1.3,108.0,0.94,115.0,2.2,SVI,6919,No Condition
+62,F,f,f,f,t,f,f,f,f,f,f,f,f,f,f,11.0,0.8,73.0,0.74,98.0,2.2,SVI,1783,Hypothyroid
+80,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,8.299999,1.9,115.0,0.86,134.0,2.2,SVI,6484,Hypothyroid
+26,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,1.2,2.5,114.0,1.09,104.0,2.2,STMW,4369,No Condition
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,2.2,138.0,1.24,111.0,2.2,other,2196,No Condition
+26,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,6.6,1.7,96.0,0.99,97.0,2.2,other,832,Hypothyroid
+25,M,f,f,f,f,f,f,f,t,f,f,f,f,f,t,1.5,2.7,120.0,1.31,91.0,1.85,SVHC,4026,No Condition
+75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,1.5,85.0,0.94,90.0,2.2,SVI,2194,No Condition
+65,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,2.2,186.0,0.98,190.0,1.85,other,396,Replacement Therapy
+71,F,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,1.9,94.0,0.97,97.0,2.2,SVHC,403,No Condition
+19,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,1.9,165.0,0.95,174.0,3.35,other,2880,Hyperthyroid
+38,F,t,f,f,f,f,t,f,f,f,f,f,f,f,f,0.035,1.8,130.0,0.87,150.0,2.2,other,3735,No Condition
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.81,2.3,109.0,1.18,93.0,2.2,SVI,4030,No Condition
+71,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,1.7,2.3,154.0,1.14,135.0,2.2,other,7485,No Condition
+35,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,1.9,92.0,0.89,103.0,1.85,SVHC,7521,No Condition
+59,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.6,0.8,68.0,0.73,93.0,2.2,SVI,851,General Health
+82,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,1.9,46.0,0.88,52.0,1.85,SVI,5845,General Health
+67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.6,0.2,99.0,0.72,138.0,2.2,SVI,4703,General Health
+73,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.8,2.1,103.0,0.92,112.0,1.85,SVHC,4603,No Condition
+78,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.7,1.8,101.0,0.92,110.0,2.2,SVI,327,No Condition
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.15,1.9,131.0,0.84,156.0,2.2,other,1013,Miscellaneous
+82,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.4,0.8,102.0,0.73,138.0,2.2,SVI,1303,General Health
+28,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.8,1.7,120.0,0.91,132.0,2.2,other,8372,No Condition
+37,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.7,1.5,69.0,0.63,110.0,1.85,SVHC,1252,No Condition
+68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,0.9,72.0,0.77,94.0,1.85,SVI,2415,General Health
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,1.7,144.0,0.94,153.0,2.2,other,4452,No Condition
+68,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.05,0.2,115.0,0.92,126.0,1.85,SVI,3450,General Health
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,1.2,75.0,1.06,71.0,2.2,other,348,No Condition
+24,F,f,f,f,f,t,f,f,f,f,f,f,f,f,f,0.15,2.8,159.0,1.39,114.0,2.2,STMW,1149,No Condition
+28,F,t,f,f,f,t,f,f,f,f,f,f,f,f,f,2.5,2.6,179.0,1.55,115.0,2.2,other,1856,No Condition
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.7,0.7,82.0,0.95,86.0,2.2,SVI,6712,General Health
+39,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,0.3,73.0,0.78,94.0,2.2,other,2762,No Condition
+55,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,1.2,2.4,95.0,1.05,90.0,2.2,SVI,4177,No Condition
+44,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.9,1.8,119.0,0.98,120.0,2.2,other,1808,No Condition
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.1,2.1,84.0,0.9,93.0,2.2,SVHC,8482,No Condition
+55,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,1.7,2.0,108.0,0.97,111.0,2.2,SVI,6943,No Condition
+59,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.01,2.0,113.0,0.86,131.0,2.2,other,5537,No Condition
+37,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.9,1.0,90.0,0.77,117.0,2.2,other,7133,No Condition
+49,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.8,1.8,103.0,0.72,143.0,1.85,other,7209,No Condition
+39,M,f,f,f,f,f,f,f,f,f,t,f,f,f,t,1.1,1.8,91.0,0.94,97.0,1.85,SVHC,6267,No Condition
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.69,1.9,129.0,1.02,126.0,2.2,other,4146,No Condition
+39,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.2,3.1,99.0,1.01,98.0,1.85,SVHC,3564,No Condition
+32,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,0.2,1.7,85.0,0.84,101.0,1.85,other,2783,No Condition
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.39,2.1,111.0,0.91,122.0,2.2,SVI,7407,No Condition
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,24.0,1.7,72.0,1.07,68.0,2.2,other,2877,Hypothyroid
+84,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.2,0.7,137.0,0.84,164.0,2.2,SVI,1913,Replacement Therapy
+66,M,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.05,1.8,133.0,1.02,130.0,1.85,SVI,2644,No Condition
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.3,2.6,117.0,1.08,108.0,2.2,SVI,8211,No Condition
+29,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.33,2.2,142.0,0.93,153.0,1.85,other,5256,No Condition
+31,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.3,1.4,56.0,0.88,64.0,2.2,SVHC,7519,Miscellaneous
+63,F,f,t,f,t,f,f,f,f,f,f,f,f,f,f,0.2,0.9,110.0,0.82,134.0,2.2,SVI,1897,General Health
+67,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.4,1.2,88.0,0.69,128.0,1.85,SVI,8933,No Condition
+45,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,1.8,62.0,0.71,88.0,1.85,SVHC,1398,No Condition
+19,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.0,2.4,106.0,0.87,122.0,3.35,SVI,6000,No Condition
+58,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.6,2.0,110.0,0.95,116.0,1.85,SVI,191,No Condition
+66,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,1.5,1.5,129.0,1.02,127.0,2.2,other,3765,No Condition
+58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,2.0,101.0,1.2,84.0,2.2,SVHC,2110,No Condition
+83,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.5,1.5,91.0,0.81,113.0,2.2,other,5016,No Condition
+67,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,2.0,1.9,101.0,0.96,105.0,2.2,other,6493,No Condition
+62,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.025,1.9,174.0,0.98,177.0,2.2,other,5967,Replacement Therapy
+28,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,1.9,157.0,0.91,173.0,1.85,other,8889,Replacement Therapy
+60,M,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.005,1.9,155.0,0.78,199.0,1.85,other,8325,Replacement Therapy
+62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.4,0.8,110.0,1.06,104.0,1.85,SVI,781,General Health
+72,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,1.3,95.0,0.59,161.0,1.85,other,122,Miscellaneous
+59,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.7,2.1,91.0,0.81,112.0,1.85,other,1695,No Condition
+83,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.2,1.5,115.0,0.84,137.0,2.2,SVI,8348,No Condition
+35,M,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.1,2.8,138.0,1.13,122.0,1.85,SVHC,2504,No Condition
+80,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.54,2.0,112.0,1.11,101.0,2.2,other,8910,No Condition
+31,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,22.0,1.2,146.0,1.21,121.0,2.2,other,3203,Replacement Therapy
+9,M,t,f,f,f,f,f,f,t,f,f,f,f,f,f,0.05,2.6,145.0,0.98,148.0,3.75,other,220,No Condition
+57,F,f,f,t,f,f,f,f,f,f,f,f,f,f,f,16.799999,1.7,34.0,0.97,35.0,2.2,other,8768,Miscellaneous
+57,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,6.7,1.8,91.0,0.94,97.0,2.2,other,599,Hypothyroid
+41,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.12,1.4,184.0,0.62,297.0,1.85,SVI,7763,Miscellaneous
+45,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,2.3,92.0,1.05,88.0,2.2,other,2786,No Condition
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.3,1.7,92.0,0.96,96.0,2.2,other,3990,No Condition
+74,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,2.3,176.0,1.36,129.0,2.2,SVI,1042,Binding Protein
+43,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.01,1.9,171.0,0.98,174.0,2.2,other,4023,Replacement Therapy
+60,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.4,1.2,106.0,1.1,96.0,1.85,SVI,8418,No Condition
+24,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,1.8,73.0,0.89,82.0,2.2,other,1430,No Condition
+62,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.25,1.2,186.0,0.88,212.0,2.2,SVI,1044,Hyperthyroid
+35,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.3,2.8,107.0,1.09,99.0,2.2,other,1444,No Condition
+59,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.15,1.9,143.0,1.0,143.0,2.2,other,1073,No Condition
+32,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,0.1,1.9,126.0,0.76,163.0,2.2,SVI,1976,Miscellaneous
+62,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.22,0.8,73.0,0.75,97.0,1.85,other,6785,No Condition
+30,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.47,1.9,185.0,1.7,109.0,2.2,STMW,8543,Binding Protein
+75,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.4,2.6,108.0,1.05,102.0,2.2,SVI,2014,No Condition
+36,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,7.3,1.4,95.0,0.96,98.0,2.2,SVI,1584,Hypothyroid
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.4,1.9,99.0,0.9,111.0,2.2,SVI,1572,No Condition
+50,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,2.7,1.5,172.0,1.15,149.0,2.2,other,6224,No Condition
+29,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,1.8,106.0,1.17,91.0,2.2,SVHC,4039,No Condition
+28,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.07,1.9,175.0,1.23,143.0,2.2,other,6255,No Condition
+55,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,0.9,2.3,117.0,0.95,123.0,2.2,SVI,2576,No Condition
+47,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.9,2.4,102.0,1.31,78.0,2.2,SVHC,1775,No Condition
+73,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.83,3.1,124.0,1.1,113.0,2.2,other,6027,Binding Protein
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.4,1.7,97.0,0.79,122.0,2.2,SVI,2958,No Condition
+28,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.15,1.8,83.0,0.95,88.0,2.2,other,1316,No Condition
+60,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.17,2.4,165.0,1.0,165.0,2.2,other,7541,Replacement Therapy
+60,F,f,f,f,f,f,f,f,f,f,f,f,t,f,f,12.0,2.2,71.0,1.4,51.0,2.2,SVI,2412,Hypothyroid
+59,F,f,f,f,f,f,f,f,f,t,f,f,f,f,f,47.0,1.9,79.0,1.13,70.0,2.2,other,460,Hypothyroid
+42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.6,1.6,139.0,1.04,134.0,2.2,other,4752,No Condition
+23,F,f,f,f,f,t,f,f,f,f,f,f,t,f,f,0.1,2.8,201.0,1.14,176.0,2.2,STMW,862,Hyperthyroid
+11,F,f,f,f,f,f,f,f,f,t,f,f,t,f,f,0.1,1.8,61.0,0.82,74.0,3.35,SVI,249,No Condition
+53,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.3,1.5,119.0,1.01,118.0,1.85,SVHC,6208,No Condition
+26,F,f,t,f,f,f,f,f,f,f,f,f,f,f,f,9.4,1.9,70.0,0.95,74.0,2.2,other,5422,Hypothyroid
+58,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,3.0,184.0,1.0,184.0,2.2,other,558,Replacement Therapy
+49,M,f,f,f,f,f,t,f,f,f,f,f,f,f,f,3.0,2.2,91.0,0.86,105.0,1.85,SVI,7005,No Condition
+20,F,t,f,f,f,f,f,f,t,t,f,f,f,f,f,2.0,1.8,130.0,1.01,128.0,2.2,other,6613,No Condition
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.15,1.4,118.0,0.96,122.0,2.2,other,1135,No Condition
+70,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.1,2.3,180.0,1.3,139.0,2.2,other,2694,Binding Protein
+54,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.45,1.9,185.0,0.91,204.0,2.2,other,1609,Replacement Therapy
+77,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,1.5,125.0,1.06,118.0,2.2,other,7719,No Condition
+42,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.05,2.6,122.0,1.16,105.0,2.2,other,2603,No Condition
+56,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,15.0,2.1,133.0,0.97,137.0,2.2,other,8249,Hypothyroid
+69,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.26,1.1,99.0,1.23,81.0,1.85,SVI,9084,General Health
+72,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.9,1.4,98.0,0.82,120.0,2.2,SVI,162,No Condition
+54,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,2.9,1.5,133.0,0.96,139.0,1.85,SVI,7602,No Condition
+38,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.2,2.0,101.0,1.01,100.0,2.2,SVHC,2493,No Condition
+61,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,0.04,1.9,151.0,0.85,178.0,2.2,other,9080,Replacement Therapy
+37,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,1.6,2.2,104.0,0.99,105.0,2.2,other,5274,No Condition
+67,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.1,1.5,108.0,0.94,115.0,2.2,SVI,8599,No Condition
+42,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,1.3,1.7,84.0,0.63,133.0,1.85,other,3546,No Condition
+64,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,6.2,2.0,73.0,1.0,73.0,2.2,other,8114,Hypothyroid
+63,F,t,f,f,f,f,f,t,f,f,f,f,f,f,f,4.1,1.8,100.0,1.21,83.0,2.2,other,6501,No Condition
+74,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,0.1,1.9,88.0,0.81,109.0,1.85,SVI,204,No Condition
+51,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,3.3,1.9,92.0,0.93,98.0,2.2,other,4535,No Condition
